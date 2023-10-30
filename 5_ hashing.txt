@@ -1,0 +1,687 @@
+TOP-DGNIK4U9:~$ hashdeep c md5 -r ./pika
+/home/altaf/c: No such file or directory
+/home/altaf/md5: No such file or directory
+%%%% HASHDEEP-1.0
+%%%% size,md5,sha256,filename
+## Invoked from: /home/altaf
+## $ hashdeep -r c md5 ./pika
+##
+19,3453e97fb63d67f2fd961be6d1f57b6a,40086d0feceb5c41d78b3e3b93ae6e8b86449c51da321af7034c6cca4daf86c7,/home/altaf/pika/temp4.txt
+altaf@LAPTOP-DGNIK4U9:~$ hashdeep c md5 -r /pika
+/home/altaf/c: No such file or directory
+/home/altaf/md5: No such file or directory
+/pika: No such file or directory
+altaf@LAPTOP-DGNIK4U9:~$ ls
+a.pl           mytc.tr    pika               sample.txt.asc    temp.txt
+decryptedfile  mytcp.nam  r.sh               sample.txt.gpg    temp2.txt
+dvr.tcl        mytcp.tr   receiverpublickey  senderprivatekey  temp3.txt
+hashset1.txt   out1.nam   rect.sh            senderpublickey
+hello.tcl      out1.tr    s.sh               te.txt
+mytc.nam       p1.sh      sample.txt         tee.sh
+altaf@LAPTOP-DGNIK4U9:~$ pwd
+/home/altaf
+altaf@LAPTOP-DGNIK4U9:~$ hashdeep c md5 -r /home/altaf/
+/home/altaf/c: No such file or directory
+/home/altaf/md5: No such file or directory
+%%%% HASHDEEP-1.0
+%%%% size,md5,sha256,filename
+## Invoked from: /home/altaf
+## $ hashdeep -r c md5 /home/altaf/
+##
+12288,2480d7390459b81efe2ec7be871228fe,12fdbb6e61239f9d0922b3205c6400fb9a5994734821a3f7a33f359887f4e832,/home/altaf/.swo
+134,588fed89d5b65445285509f71ba596c3,f0a2de69feff1713787a0c74418c05329086d91a72bbeaa961d46f6b7a107eca,/home/altaf/rect.sh
+1433,29b063b26def87629e4d11b01b007733,679747f529a209451d309a2993e78153eb62bca95f64454e19806765720f6463,/home/altaf/.viminfo
+12288,da49e78b3c8e740b6cf02227157f8724,c65dacff142018497831475c4b4484c148589e5d39e67e868b80da50bf62eb69,/home/altaf/.swp
+104,605c667910bb41e50e42134dbb613523,e10e709efbee1dcbaa546613086cec2aa110a7c627a00a12190884d7645e633c,/home/altaf/tee.sh
+36,9999888d6966f678f76c25b72b2b7635,ad1c4f221782d919bddcf78b9ddb875d0f1a48ef3b4ffffc1b3d019f7fd1feb1,/home/altaf/temp3.txt
+464,fe17e919bd1ae0c0220389968ed95df5,6667026b8bda49b3871cb7aae3d8dcff6141fd9e8f8fe27266599dd083dc6199,/home/altaf/.dbus/session-bus/1871d6273826f63aa757e2656442ae28-0
+84,eb06b556b1f2150f2effff1851baf418,351a7a5d9aa2d8c2597d77fadaef2532f75598e1ca5557e184437d3c944fd13f,/home/altaf/.rediscli_history
+523943,30f355d3510d53aa849306965fadabd8,918eb02b8116c40057bcb5a7dd36558e7a1816d6223fabe1970c6b0f586f8c19,/home/altaf/mytcp.tr
+19,0a0b36919a72992b2c6172bb61c78c12,ec37727ecaf62f968885327affc76f6257881c3784ce6fc3c10ba40a2b47255e,/home/altaf/hello.tcl
+324,fcd17103a34f960a2cbf2c946883f2eb,d32b500add1a4f083de06aab930f716c46427c50ff450e493b10a1f7f578013d,/home/altaf/a.pl
+207,28b33bc0881bfde8aa50c64c10c253de,aba74ea9ae3903fc41cd797b1105e6d10607e41d31423571bc574b649cd36ed6,/home/altaf/r.sh
+226,7447276f9e7c0b115eb6d6f12b834af4,ef4443b2220e4a594265cdd99c4c8755de325c55db7d7beb683f382b18eea468,/home/altaf/hashset1.txt
+1209169,f1aab19dc7b3b9d92deeb35bf253fa77,67e1f283389e8650ddb4c3e2bfd138ea159618de28d855d6bffd8433f34add3f,/home/altaf/mytc.nam
+/home/altaf/.gnupg/S.gpg-agent: No such device or address
+/home/altaf/.gnupg/S.gpg-agent.browser: No such device or address
+/home/altaf/.gnupg/S.gpg-agent.extra: No such device or address
+750133,f387368bcebc73632bd738bb25cb0a4e,aabdfe72d6035ea2fcc79177bebb53ed03185d374ed6ddf36410def153f17b65,/home/altaf/out1.nam
+324603,f6ca7b67162727a64bd284dacf93ca0e,02beb444f79a71401541cdfd0535138be5f9554e39d3644a8c4e69604ac3655b,/home/altaf/out1.tr
+1253,d0b68412fb473fc4b8e6e14d0c82e881,304c60a516410acc07b4f10b414942fcc07c9925ce62b66abe7520be2b526017,/home/altaf/.gnupg/private-keys-v1.d/30BEA94734BEEA7E2106F68F3E9FBF0C4628882D.key
+3105,37da145cf7939959e2c506d7e906ee48,df05b456e0d8d277802af1e0b58b9979b5679573594d8048fbc4b44479486517,/home/altaf/.gnupg/private-keys-v1.d/7C4D67920F58C26D36B21C3E76307D74B4903CE4.key
+3103,c9b0799acabbda7545248c54af771d2c,75d0f7706d5d0e7378f557fc5e869429828d638cc91af072f0f60e7b4c9007e1,/home/altaf/.gnupg/private-keys-v1.d/C2C3A6A8A615223DC4A850EB7093A0C2DB313F28.key
+/home/altaf/.gnupg/S.gpg-agent.ssh: No such device or address
+1253,3b32282eec33a04a2ecc6894dc536004,7c63488108baf726484d317c213aebc49009cd731c0c7b18565c011dd2f75bc6,/home/altaf/.gnupg/private-keys-v1.d/F30E01636C490608F75D4B3A4BFC7F2CF4E55F84.key
+2877,759b298eefb3c6a2323164a134eb4986,89e879df2a1ee57f3e51fc419e902639e4eeb8d85bb6d7435a0be5aa9b550ec0,/home/altaf/.gnupg/pubring.kbx
+600,2379a51b24237a73a40233119f42bf79,1bed830f18bd85252567d725d199f7c11cf65fbbebee597ec4c960cbe36c6f91,/home/altaf/.gnupg/random_seed
+1360,31b532dea4a52d644b5e4641c5125a47,64ca8ee76aa0aa12c7e2dd36f14e6ee28fbd5035230e9d346d61f1318f76e234,/home/altaf/.gnupg/trustdb.gpg
+1285,3681209b21e5bbb3a2aae2fbeb63e992,ce50db2b6c900fcdfce5039d7855f832f0e861259b600d35e387df6099ede71c,/home/altaf/.gnupg/openpgp-revocs.d/9CFE52FA8CD6277261A2CA753445F5154B9677DD.rev
+1625,fc3ea9f5a34fdc933b6e583db70260a8,73906bc7fb184ee68a490d5fde954b08d07059f5932ae4021b33d2717787a11d,/home/altaf/.gnupg/openpgp-revocs.d/DAE2FEFE533EB973088483EEE9B72E6F838D6A97.rev
+0,d41d8cd98f00b204e9800998ecf8427e,e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855,/home/altaf/.sudo_as_admin_successful
+944,f6eb08b616109ddb84618b53ccda82c4,2ca677febbe7f50c4d649da907e6b61a1a762605795429245ee20b68db1a5567,/home/altaf/.gnupg/pubring.kbx~
+132,ec5c1e524ddd65ac0bee440ac122b440,7fdf862ab9a8081f00f49f929845d27f28af68208bc38d08beaa2d2e8d6daeb7,/home/altaf/p1.sh
+29,e8c660fc4afb342ab40e077c3f136ab6,16c36cf57cf70b240ed0848470ff234c561a135cfc01822c1797b522c07a4186,/home/altaf/sample.txt
+20,b990bcabb668d0e7d72c687da363bac3,be19ca9dca233aea9918a115d8ff364d5ac0b07aae5b0d5424bdc42201953961,/home/altaf/.lesshst
+34,d8a4ce1124d07fe506489e513b6689e0,13e051486615a60a7ecdba7c62a478436caa40bd924b2a118ffdf88941d3e517,/home/altaf/.docker/config.json
+/home/altaf/.docker/features.json: No such file or directory
+/home/altaf/.docker/run/docker-cli-api.sock: No such device or address
+3,8a80554c91d9fca8acb82f023de02f11,ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356,/home/altaf/.docker/scan/config.json
+4981,6efc162a950c62fed932fe90958fb796,4ffe1b5b8d6010d526658af92eb709148809d73e443c19d46a2bcd4d360cefc2,/home/altaf/.docker/desktop/log/host/docker-desktop-user-distro.log
+977,c85ef9caa2f03551e45e96ba7d6783ec,70d69843423e1d90adc1233e12c02cf43b03aebf2dd77469ded254406124d69c,/home/altaf/dvr.tcl
+19,3453e97fb63d67f2fd961be6d1f57b6a,40086d0feceb5c41d78b3e3b93ae6e8b86449c51da321af7034c6cca4daf86c7,/home/altaf/pika/temp4.txt
+494,16c18ccd2d5e02ed614eb9e999a9cc1d,14bc516163c3e779695481cc9a907856f415b18689717b4d9b36296250e5c5e3,/home/altaf/sample.txt.gpg
+166,00ce75bdb6055b5137b6a29b962d1396,f163ce1c15933fe8f4dc6d64e055e4964a7bf885328cef4dccb68a1b76a35231,/home/altaf/.docker/contexts/meta/fe9c6bd7a66301f49ca9b6a70b217107cd1284598bfc254700c989b916da791e/meta.json
+42212,39e14f56575325c6761e0001c2c394fb,dd9117fc731ff2aee9ab31a7b5e6d89ee09fa37e4958c435f4900128155343ce,/home/altaf/.vscode-remote-containers/dist/vscode-remote-containers-server-0.309.0.js
+1420,1e5f4529b98c24acbbf60ce7ac10bafb,2f7682bdcbcd4294b0685d279218079651d14c6cd79f6d48241ed90db1bcf3c7,/home/altaf/.vscode-remote-containers/bin/8b617bd08fd9e3fc94d14adb8d358b56e3f72314/node_modules/node-pty/package.json
+39672,34dae45cbeb30e51ad95f18732b71fbf,d5afaf16ca04d609c19618d277bb08557d30308224cd5726d150e103c277aef9,/home/altaf/.vscode-remote-containers/bin/8b617bd08fd9e3fc94d14adb8d358b56e3f72314/node_modules/node-pty/build/Release/pty.node
+721,25d5e76a85662acaf0722d1a114a9cb9,08f9ddf271cae63b928717a0a2a58f3d6e3b481428b6dea434351ee84233db23,/home/altaf/.vscode-remote-containers/bin/8b617bd08fd9e3fc94d14adb8d358b56e3f72314/node_modules/node-pty/lib/conpty_console_list_agent.js
+5965,5cb773c129058a0c0469bad447c12fa5,04330fe612120993dd7e15517fee9d58c939b6dc035670b8190a5b2dfb86a008,/home/altaf/.vscode-remote-containers/bin/8b617bd08fd9e3fc94d14adb8d358b56e3f72314/node_modules/node-pty/lib/windowsConoutConnection.js
+11007,9fad19d65d9ebef1c995fbecfc5a531b,8fd3b1a6cfdb5e06a97168838e17b682a53d896d3d6925f2ad44dd19b9654fcd,/home/altaf/.vscode-remote-containers/bin/8b617bd08fd9e3fc94d14adb8d358b56e3f72314/node_modules/node-pty/lib/unixTerminal.js
+1558,88f6e89d67ec8f62042a41960daf55a0,6d0b580a35ecffe0e145ddb20a5a1bc8e48ad2aad75094dca82d765c589cfbab,/home/altaf/.vscode-remote-containers/bin/8b617bd08fd9e3fc94d14adb8d358b56e3f72314/node_modules/node-pty/lib/eventEmitter2.js
+801,dd2333df44d448612ad751a5949a7fef,7e43fd98fec122439a75a0bc03542bf2bbc6e80ff58260cff80dda77ac809639,/home/altaf/.vscode-remote-containers/bin/8b617bd08fd9e3fc94d14adb8d358b56e3f72314/node_modules/node-pty/lib/worker/conoutSocketWorker.js
+7417,59db6ba9037065e2fb161a90fdc3e4cd,256212b0828752b0ef0f4a2ee5083c07088a7005f2c2180882691d37e4e67e4a,/home/altaf/.vscode-remote-containers/bin/8b617bd08fd9e3fc94d14adb8d358b56e3f72314/node_modules/node-pty/lib/terminal.js
+546,468f959deaf618eaed69ae9618eba881,92107adc4a7409d9089e682c5aeeee865921c18b8468fb6ffd72570ce6a873fc,/home/altaf/.vscode-remote-containers/bin/8b617bd08fd9e3fc94d14adb8d358b56e3f72314/node_modules/node-pty/lib/utils.js
+7944,4bbb8ed996e7da0faca4e11ff3a0f555,9e60219c86d5e9ae5d7c6857f80b73535b5c5039a3122e7c6c1188b61a1ab1d4,/home/altaf/.vscode-remote-containers/bin/8b617bd08fd9e3fc94d14adb8d358b56e3f72314/node_modules/node-pty/lib/windowsTerminal.js
+313,cb58f64b6b6ae4895eba76329e70168f,d2cf0b675a75bc99b9577d8237f5b2d77b62a18a5c10de996e7ac061be180d75,/home/altaf/.vscode-remote-containers/bin/8b617bd08fd9e3fc94d14adb8d358b56e3f72314/node_modules/node-pty/lib/shared/conout.js
+1938,6e8ec45f11a5d24a9c783bcacb4f7e53,6474a0fd14035bfc0165aa851cf1b0f61003ee19b6bf0476bcda2eebceb17547,/home/altaf/.vscode-remote-containers/bin/8b617bd08fd9e3fc94d14adb8d358b56e3f72314/node_modules/node-pty/lib/index.js
+194,9e335e0f2febede5a0039bad774cf8af,292d91c8305dc7c314f892a8603a0e4a0dfb5672c770fb22afe549479e937633,/home/altaf/.vscode-remote-containers/bin/8b617bd08fd9e3fc94d14adb8d358b56e3f72314/node_modules/node-pty/lib/types.js
+12417,558746061e9dd86b1c4fd229d99b2ec6,dbb53fa9905c3a9ea5d2136686b149691f63a1b80719d5b1f480267f540414cb,/home/altaf/.vscode-remote-containers/bin/8b617bd08fd9e3fc94d14adb8d358b56e3f72314/node_modules/node-pty/lib/windowsPtyAgent.js
+194,3d6cb8389dcd0d05bfaebfcf6d67bd59,ca8b8b47b4e9de070e60dcad84234902d90489147596bc96278fb34d82d7dbb6,/home/altaf/.vscode-remote-containers/bin/8b617bd08fd9e3fc94d14adb8d358b56e3f72314/node_modules/node-pty/lib/interfaces.js
+3419,031b714899170db2ac768a58e00288ca,fa4e27f0d6de6fed79687ca4e9a75229f88eebcff1c6ec2d6c8edb14a33ba4ee,/home/altaf/senderpublickey
+3326,c52651784ba3971ee506ab612dd90b72,a3d60eaf32d2fb09c9d82ef39f14bd6e2c0f3ca7de30daa827486c0d6f8b6e9f,/home/altaf/.vscode-remote-containers/bin/8b617bd08fd9e3fc94d14adb8d358b56e3f72314/node_modules/node-pty/LICENSE
+992,bcd5af84611e1d98101874c165232a3c,990dcf1604cc932fbd11f47204b63f2b9c7467cde3f6b8680f363cc2c5e27967,/home/altaf/sample.txt.asc
+807,f4e81ade7d6f9fb342541152d08e7a97,28b4a453b68dde64f814e94bab14ee651f4f162e15dd9920490aa1d49f05d2a4,/home/altaf/.profile
+37,482ce0fe1e08d7028ec50b1207c9a2d7,f28b9d898a0ea11ea88f9a50af697f46fbc073e3351bd20c7973d54441dc364b,/home/altaf/temp.txt
+13380,8d09a4b68713590a3ed601f545e79e29,b30dc57b522e7b728e453d0683dbc82982614c609f26225493bb21bb8518493d,/home/altaf/.vscode-remote-containers/bin/8b617bd08fd9e3fc94d14adb8d358b56e3f72314/LICENSE
+2860,81ee7aeab8555ec7cb0f72e1f9b61cc9,59b91fa2c6db0c7b786cebd0254c698bc245e2401dbc5d3c7309a55c05f68323,/home/altaf/.config/wireshark/recent
+2129,7212eea929a383eba12f30b2e6c4f3cd,a41ec65835ab6be52b5dfcda89ccc412f02a7013269a0b1684dd75883d6f2df1,/home/altaf/.config/wireshark/recent_common
+0,d41d8cd98f00b204e9800998ecf8427e,e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855,/home/altaf/.config/enchant/en_US.dic
+0,d41d8cd98f00b204e9800998ecf8427e,e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855,/home/altaf/.config/enchant/en_US.exc
+220745,e7cac757e7157df724ac9334973430c7,c5d5be836fa126326fc6c1cb945f91b6dd93c6bf9b190e8e243ae8d2c4a31533,/home/altaf/.config/wireshark/preferences
+102,44ca9eff853cd7a8f9c1ba0bcf0c9064,6a1e573c0068dc87d4f0fbe6782d0a253dd60b9f37b7f6c5c4d6c72547f16c05,/home/altaf/.config/gedit/accels
+276,a455c3d189884fc8b6ca674e74bdffaf,9a10246bda8590bbedb5b1f0c97f10c9ef8a893f6d25188b82d619b089b356b2,/home/altaf/s.sh
+1309,de19d7f6647355d3f0eb5357c35a62e8,8212ca84931c19959ea60de8c9902349dc7201e807e7444ee218ab434358dbe9,/home/altaf/.config/dconf/user
+6273,d3d8fe7034de18c68dba8a1d36d92940,459cb78fc090d58177f880e088c4e8308d369081860201b7cf931fa9eba9d1e0,/home/altaf/.local/share/recently-used.xbel
+815,21fa015a798a2fd5b0bd9ff5c720b8f9,178e1c54a557f18d97bd1d1afd21bf3e94c38229483e5ebdcd266ef45152545e,/home/altaf/.local/share/recently-used.xbel.UWQX31
+220,22bfb8c1dd94b5f3813a2b25da67463f,26882b79471c25f945c970f8233d8ce29d54e9d5eedcd2884f88affa84a18f56,/home/altaf/.bash_logout
+7199,3c979bde732d515898045803b65e7c01,8f2f10cb98667b33c6d0ee35336948179450d5ddd8ede1b214bc044f858489c1,/home/altaf/senderprivatekey
+523943,30f355d3510d53aa849306965fadabd8,918eb02b8116c40057bcb5a7dd36558e7a1816d6223fabe1970c6b0f586f8c19,/home/altaf/mytc.tr
+1209169,f1aab19dc7b3b9d92deeb35bf253fa77,67e1f283389e8650ddb4c3e2bfd138ea159618de28d855d6bffd8433f34add3f,/home/altaf/mytcp.nam
+0,d41d8cd98f00b204e9800998ecf8427e,e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855,/home/altaf/.motd_shown
+12,75ffbfd88434af9d4b82315b0a3bf46c,6866236393fee7b77c78605fb5811661ae0ffc29738afe8e2b74f54e1041ad98,/home/altaf/temp2.txt
+2440,c2211d50403f8c536eecd0c777a14e17,39fc1d9a3d9ca45c8f50357e3949fbf135462ef1f467bbda13f6c8bbc9673a48,/home/altaf/receiverpublickey
+3771,1f98b8f3f3c8f8927eca945d59dcc1c6,342099da4dd28c394d3f8782d90d7465cb2eaa611193f8f378d6918261cb9bb8,/home/altaf/.bashrc
+29,e8c660fc4afb342ab40e077c3f136ab6,16c36cf57cf70b240ed0848470ff234c561a135cfc01822c1797b522c07a4186,/home/altaf/decryptedfile
+50,f7d9a12b9cd5872e4f9c77c22d9883ac,94f04ea1fb80b97d47fa000a81fcb7bf6a619b0d84ef5e2027ff1a0d36f5afcb,/home/altaf/te.txt
+4601,5fc396341a69b30c2f94c79a0962147f,d1a1c90a374ac7b0bfb9445dceffff37cfe4cf701ff267ef2cbfb24a6d4ac0f1,/home/altaf/.bash_history
+90804416,1a7b9bec81ea889bb94666df0d1a588f,1de6aa7cc9ca937c0ad77eabb56ce92019e943051b957013534243b52f167939,/home/altaf/.vscode-remote-containers/bin/8b617bd08fd9e3fc94d14adb8d358b56e3f72314/node
+altaf@LAPTOP-DGNIK4U9:~$ hashdeep -c md5 -r /home/altaf/
+%%%% HASHDEEP-1.0
+%%%% size,md5,filename
+## Invoked from: /home/altaf
+## $ hashdeep -c md5 -r /home/altaf/
+##
+12288,2480d7390459b81efe2ec7be871228fe,/home/altaf/.swo
+1209169,f1aab19dc7b3b9d92deeb35bf253fa77,/home/altaf/mytc.nam
+134,588fed89d5b65445285509f71ba596c3,/home/altaf/rect.sh
+12288,da49e78b3c8e740b6cf02227157f8724,/home/altaf/.swp
+464,fe17e919bd1ae0c0220389968ed95df5,/home/altaf/.dbus/session-bus/1871d6273826f63aa757e2656442ae28-0
+104,605c667910bb41e50e42134dbb613523,/home/altaf/tee.sh
+36,9999888d6966f678f76c25b72b2b7635,/home/altaf/temp3.txt
+523943,30f355d3510d53aa849306965fadabd8,/home/altaf/mytcp.tr
+84,eb06b556b1f2150f2effff1851baf418,/home/altaf/.rediscli_history
+19,0a0b36919a72992b2c6172bb61c78c12,/home/altaf/hello.tcl
+324,fcd17103a34f960a2cbf2c946883f2eb,/home/altaf/a.pl
+207,28b33bc0881bfde8aa50c64c10c253de,/home/altaf/r.sh
+226,7447276f9e7c0b115eb6d6f12b834af4,/home/altaf/hashset1.txt
+/home/altaf/.gnupg/S.gpg-agent: No such device or address
+/home/altaf/.gnupg/S.gpg-agent.browser: No such device or address
+/home/altaf/.gnupg/S.gpg-agent.extra: No such device or address
+1253,d0b68412fb473fc4b8e6e14d0c82e881,/home/altaf/.gnupg/private-keys-v1.d/30BEA94734BEEA7E2106F68F3E9FBF0C4628882D.key
+3103,c9b0799acabbda7545248c54af771d2c,/home/altaf/.gnupg/private-keys-v1.d/C2C3A6A8A615223DC4A850EB7093A0C2DB313F28.key
+324603,f6ca7b67162727a64bd284dacf93ca0e,/home/altaf/out1.tr
+750133,f387368bcebc73632bd738bb25cb0a4e,/home/altaf/out1.nam
+1433,29b063b26def87629e4d11b01b007733,/home/altaf/.viminfo
+3105,37da145cf7939959e2c506d7e906ee48,/home/altaf/.gnupg/private-keys-v1.d/7C4D67920F58C26D36B21C3E76307D74B4903CE4.key
+1253,3b32282eec33a04a2ecc6894dc536004,/home/altaf/.gnupg/private-keys-v1.d/F30E01636C490608F75D4B3A4BFC7F2CF4E55F84.key
+2877,759b298eefb3c6a2323164a134eb4986,/home/altaf/.gnupg/pubring.kbx
+/home/altaf/.gnupg/S.gpg-agent.ssh: No such device or address
+600,2379a51b24237a73a40233119f42bf79,/home/altaf/.gnupg/random_seed
+1360,31b532dea4a52d644b5e4641c5125a47,/home/altaf/.gnupg/trustdb.gpg
+1625,fc3ea9f5a34fdc933b6e583db70260a8,/home/altaf/.gnupg/openpgp-revocs.d/DAE2FEFE533EB973088483EEE9B72E6F838D6A97.rev
+0,d41d8cd98f00b204e9800998ecf8427e,/home/altaf/.sudo_as_admin_successful
+944,f6eb08b616109ddb84618b53ccda82c4,/home/altaf/.gnupg/pubring.kbx~
+1285,3681209b21e5bbb3a2aae2fbeb63e992,/home/altaf/.gnupg/openpgp-revocs.d/9CFE52FA8CD6277261A2CA753445F5154B9677DD.rev
+29,e8c660fc4afb342ab40e077c3f136ab6,/home/altaf/sample.txt
+132,ec5c1e524ddd65ac0bee440ac122b440,/home/altaf/p1.sh
+20,b990bcabb668d0e7d72c687da363bac3,/home/altaf/.lesshst
+3,8a80554c91d9fca8acb82f023de02f11,/home/altaf/.docker/scan/config.json
+34,d8a4ce1124d07fe506489e513b6689e0,/home/altaf/.docker/config.json
+/home/altaf/.docker/features.json: No such file or directory
+/home/altaf/.docker/run/docker-cli-api.sock: No such device or address
+4981,6efc162a950c62fed932fe90958fb796,/home/altaf/.docker/desktop/log/host/docker-desktop-user-distro.log
+166,00ce75bdb6055b5137b6a29b962d1396,/home/altaf/.docker/contexts/meta/fe9c6bd7a66301f49ca9b6a70b217107cd1284598bfc254700c989b916da791e/meta.json
+977,c85ef9caa2f03551e45e96ba7d6783ec,/home/altaf/dvr.tcl
+494,16c18ccd2d5e02ed614eb9e999a9cc1d,/home/altaf/sample.txt.gpg
+19,3453e97fb63d67f2fd961be6d1f57b6a,/home/altaf/pika/temp4.txt
+42212,39e14f56575325c6761e0001c2c394fb,/home/altaf/.vscode-remote-containers/dist/vscode-remote-containers-server-0.309.0.js
+39672,34dae45cbeb30e51ad95f18732b71fbf,/home/altaf/.vscode-remote-containers/bin/8b617bd08fd9e3fc94d14adb8d358b56e3f72314/node_modules/node-pty/build/Release/pty.node
+801,dd2333df44d448612ad751a5949a7fef,/home/altaf/.vscode-remote-containers/bin/8b617bd08fd9e3fc94d14adb8d358b56e3f72314/node_modules/node-pty/lib/worker/conoutSocketWorker.js
+721,25d5e76a85662acaf0722d1a114a9cb9,/home/altaf/.vscode-remote-containers/bin/8b617bd08fd9e3fc94d14adb8d358b56e3f72314/node_modules/node-pty/lib/conpty_console_list_agent.js
+1420,1e5f4529b98c24acbbf60ce7ac10bafb,/home/altaf/.vscode-remote-containers/bin/8b617bd08fd9e3fc94d14adb8d358b56e3f72314/node_modules/node-pty/package.json
+5965,5cb773c129058a0c0469bad447c12fa5,/home/altaf/.vscode-remote-containers/bin/8b617bd08fd9e3fc94d14adb8d358b56e3f72314/node_modules/node-pty/lib/windowsConoutConnection.js
+1558,88f6e89d67ec8f62042a41960daf55a0,/home/altaf/.vscode-remote-containers/bin/8b617bd08fd9e3fc94d14adb8d358b56e3f72314/node_modules/node-pty/lib/eventEmitter2.js
+11007,9fad19d65d9ebef1c995fbecfc5a531b,/home/altaf/.vscode-remote-containers/bin/8b617bd08fd9e3fc94d14adb8d358b56e3f72314/node_modules/node-pty/lib/unixTerminal.js
+7417,59db6ba9037065e2fb161a90fdc3e4cd,/home/altaf/.vscode-remote-containers/bin/8b617bd08fd9e3fc94d14adb8d358b56e3f72314/node_modules/node-pty/lib/terminal.js546,468f959deaf618eaed69ae9618eba881,/home/altaf/.vscode-remote-containers/bin/8b617bd08fd9e3fc94d14adb8d358b56e3f72314/node_modules/node-pty/lib/utils.js
+7944,4bbb8ed996e7da0faca4e11ff3a0f555,/home/altaf/.vscode-remote-containers/bin/8b617bd08fd9e3fc94d14adb8d358b56e3f72314/node_modules/node-pty/lib/windowsTerminal.js
+1938,6e8ec45f11a5d24a9c783bcacb4f7e53,/home/altaf/.vscode-remote-containers/bin/8b617bd08fd9e3fc94d14adb8d358b56e3f72314/node_modules/node-pty/lib/index.js
+313,cb58f64b6b6ae4895eba76329e70168f,/home/altaf/.vscode-remote-containers/bin/8b617bd08fd9e3fc94d14adb8d358b56e3f72314/node_modules/node-pty/lib/shared/conout.js
+12417,558746061e9dd86b1c4fd229d99b2ec6,/home/altaf/.vscode-remote-containers/bin/8b617bd08fd9e3fc94d14adb8d358b56e3f72314/node_modules/node-pty/lib/windowsPtyAgent.js
+194,9e335e0f2febede5a0039bad774cf8af,/home/altaf/.vscode-remote-containers/bin/8b617bd08fd9e3fc94d14adb8d358b56e3f72314/node_modules/node-pty/lib/types.js
+3326,c52651784ba3971ee506ab612dd90b72,/home/altaf/.vscode-remote-containers/bin/8b617bd08fd9e3fc94d14adb8d358b56e3f72314/node_modules/node-pty/LICENSE
+194,3d6cb8389dcd0d05bfaebfcf6d67bd59,/home/altaf/.vscode-remote-containers/bin/8b617bd08fd9e3fc94d14adb8d358b56e3f72314/node_modules/node-pty/lib/interfaces.js
+13380,8d09a4b68713590a3ed601f545e79e29,/home/altaf/.vscode-remote-containers/bin/8b617bd08fd9e3fc94d14adb8d358b56e3f72314/LICENSE
+3419,031b714899170db2ac768a58e00288ca,/home/altaf/senderpublickey
+992,bcd5af84611e1d98101874c165232a3c,/home/altaf/sample.txt.asc
+807,f4e81ade7d6f9fb342541152d08e7a97,/home/altaf/.profile
+37,482ce0fe1e08d7028ec50b1207c9a2d7,/home/altaf/temp.txt
+2860,81ee7aeab8555ec7cb0f72e1f9b61cc9,/home/altaf/.config/wireshark/recent
+2129,7212eea929a383eba12f30b2e6c4f3cd,/home/altaf/.config/wireshark/recent_common
+220745,e7cac757e7157df724ac9334973430c7,/home/altaf/.config/wireshark/preferences
+0,d41d8cd98f00b204e9800998ecf8427e,/home/altaf/.config/enchant/en_US.dic
+0,d41d8cd98f00b204e9800998ecf8427e,/home/altaf/.config/enchant/en_US.exc
+102,44ca9eff853cd7a8f9c1ba0bcf0c9064,/home/altaf/.config/gedit/accels
+1309,de19d7f6647355d3f0eb5357c35a62e8,/home/altaf/.config/dconf/user
+276,a455c3d189884fc8b6ca674e74bdffaf,/home/altaf/s.sh
+6273,d3d8fe7034de18c68dba8a1d36d92940,/home/altaf/.local/share/recently-used.xbel
+815,21fa015a798a2fd5b0bd9ff5c720b8f9,/home/altaf/.local/share/recently-used.xbel.UWQX31
+523943,30f355d3510d53aa849306965fadabd8,/home/altaf/mytc.tr
+220,22bfb8c1dd94b5f3813a2b25da67463f,/home/altaf/.bash_logout
+7199,3c979bde732d515898045803b65e7c01,/home/altaf/senderprivatekey
+1209169,f1aab19dc7b3b9d92deeb35bf253fa77,/home/altaf/mytcp.nam
+12,75ffbfd88434af9d4b82315b0a3bf46c,/home/altaf/temp2.txt
+2440,c2211d50403f8c536eecd0c777a14e17,/home/altaf/receiverpublickey
+0,d41d8cd98f00b204e9800998ecf8427e,/home/altaf/.motd_shown
+3771,1f98b8f3f3c8f8927eca945d59dcc1c6,/home/altaf/.bashrc
+29,e8c660fc4afb342ab40e077c3f136ab6,/home/altaf/decryptedfile
+4601,5fc396341a69b30c2f94c79a0962147f,/home/altaf/.bash_history
+50,f7d9a12b9cd5872e4f9c77c22d9883ac,/home/altaf/te.txt
+90804416,1a7b9bec81ea889bb94666df0d1a588f,/home/altaf/.vscode-remote-containers/bin/8b617bd08fd9e3fc94d14adb8d358b56e3f72314/node
+altaf@LAPTOP-DGNIK4U9:~$ hashdeep *.txt > hashset1.txt
+altaf@LAPTOP-DGNIK4U9:~$ cat hashset1.txt
+%%%% HASHDEEP-1.0
+%%%% size,md5,sha256,filename
+## Invoked from: /home/altaf
+## $ hashdeep hashset1.txt sample.txt te.txt temp.txt temp2.txt temp3.txt
+##
+0,d41d8cd98f00b204e9800998ecf8427e,e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855,/home/altaf/hashset1.txt
+29,e8c660fc4afb342ab40e077c3f136ab6,16c36cf57cf70b240ed0848470ff234c561a135cfc01822c1797b522c07a4186,/home/altaf/sample.txt
+50,f7d9a12b9cd5872e4f9c77c22d9883ac,94f04ea1fb80b97d47fa000a81fcb7bf6a619b0d84ef5e2027ff1a0d36f5afcb,/home/altaf/te.txt
+37,482ce0fe1e08d7028ec50b1207c9a2d7,f28b9d898a0ea11ea88f9a50af697f46fbc073e3351bd20c7973d54441dc364b,/home/altaf/temp.txt
+12,75ffbfd88434af9d4b82315b0a3bf46c,6866236393fee7b77c78605fb5811661ae0ffc29738afe8e2b74f54e1041ad98,/home/altaf/temp2.txt
+36,9999888d6966f678f76c25b72b2b7635,ad1c4f221782d919bddcf78b9ddb875d0f1a48ef3b4ffffc1b3d019f7fd1feb1,/home/altaf/temp3.txt
+altaf@LAPTOP-DGNIK4U9:~$ hashdeep -m hashset1.txt
+hashdeep: Unable to load any matching files.
+Try `hashdeep -h` for more information.
+altaf@LAPTOP-DGNIK4U9:~$ hashdeep -m -k hashset1.txt
+^C
+altaf@LAPTOP-DGNIK4U9:~$ hashdeep -m -k hashset1.txt *
+/home/altaf/decryptedfile
+/home/altaf/pika: Is a directory
+/home/altaf/sample.txt
+/home/altaf/te.txt
+/home/altaf/temp.txt
+/home/altaf/temp3.txt
+/home/altaf/temp2.txt
+altaf@LAPTOP-DGNIK4U9:~$ cat > new1.txt
+helo
+altaf@LAPTOP-DGNIK4U9:~$ hashdeep -m -k hashset1.txt *
+/home/altaf/decryptedfile
+/home/altaf/pika: Is a directory
+/home/altaf/sample.txt
+/home/altaf/temp.txt
+/home/altaf/temp2.txt
+/home/altaf/temp3.txt
+/home/altaf/te.txt
+altaf@LAPTOP-DGNIK4U9:~$ hashdeep *.txt > hashset2.txt
+altaf@LAPTOP-DGNIK4U9:~$ cat hashset2.txt
+%%%% HASHDEEP-1.0
+%%%% size,md5,sha256,filename
+## Invoked from: /home/altaf
+## $ hashdeep hashset1.txt new1.txt sample.txt te.txt temp.txt temp2.txt temp3.txt
+##
+29,e8c660fc4afb342ab40e077c3f136ab6,16c36cf57cf70b240ed0848470ff234c561a135cfc01822c1797b522c07a4186,/home/altaf/sample.txt
+5,66ccbf65cfdd62597d3a7aaabd8a24c7,0520f85b16f1baa6ca41878981bf1848bcce551fc2c7f1e6d2297fc6ed0389ea,/home/altaf/new1.txt
+50,f7d9a12b9cd5872e4f9c77c22d9883ac,94f04ea1fb80b97d47fa000a81fcb7bf6a619b0d84ef5e2027ff1a0d36f5afcb,/home/altaf/te.txt
+892,433919b007109038f4c54c831772cae3,8339bb110d1fa8471f65f767f978dcf2d920e647fae8bde1f5e0b2ebb22f319a,/home/altaf/hashset1.txt
+37,482ce0fe1e08d7028ec50b1207c9a2d7,f28b9d898a0ea11ea88f9a50af697f46fbc073e3351bd20c7973d54441dc364b,/home/altaf/temp.txt
+12,75ffbfd88434af9d4b82315b0a3bf46c,6866236393fee7b77c78605fb5811661ae0ffc29738afe8e2b74f54e1041ad98,/home/altaf/temp2.txt
+36,9999888d6966f678f76c25b72b2b7635,ad1c4f221782d919bddcf78b9ddb875d0f1a48ef3b4ffffc1b3d019f7fd1feb1,/home/altaf/temp3.txt
+altaf@LAPTOP-DGNIK4U9:~$ hashdeep -m -k hashset1.txt *
+/home/altaf/decryptedfile
+/home/altaf/pika: Is a directory
+/home/altaf/sample.txt
+/home/altaf/te.txt
+/home/altaf/temp.txt
+/home/altaf/temp2.txt
+/home/altaf/temp3.txt
+altaf@LAPTOP-DGNIK4U9:~$ hashdeep -m -k hashset2.txt *
+/home/altaf/hashset1.txt
+/home/altaf/decryptedfile
+/home/altaf/new1.txt
+/home/altaf/pika: Is a directory
+/home/altaf/sample.txt
+/home/altaf/te.txt
+/home/altaf/temp.txt
+/home/altaf/temp2.txt
+/home/altaf/temp3.txt
+altaf@LAPTOP-DGNIK4U9:~$ hashdeep -m -k hashset2.txt *
+/home/altaf/decryptedfile
+/home/altaf/hashset1.txt
+/home/altaf/new1.txt
+/home/altaf/pika: Is a directory
+/home/altaf/sample.txt
+/home/altaf/te.txt
+/home/altaf/temp.txt
+/home/altaf/temp3.txt
+altaf@LAPTOP-DGNIK4U9:~$ hashdeep temp2.txt > hashset1.txt
+altaf@LAPTOP-DGNIK4U9:~$ hashdeep -m -k hashset2.txt *
+/home/altaf/decryptedfile
+/home/altaf/new1.txt
+/home/altaf/pika: Is a directory
+/home/altaf/sample.txt
+/home/altaf/te.txt
+/home/altaf/temp.txt
+/home/altaf/temp3.txt
+altaf@LAPTOP-DGNIK4U9:~$ hashdeep -m -k hashset1.txt *
+/home/altaf/pika: Is a directory
+/home/altaf/temp2.txt
+altaf@LAPTOP-DGNIK4U9:~$ mkdir ne
+altaf@LAPTOP-DGNIK4U9:~$ hashdeep -m -k hashset1.txt *
+/home/altaf/ne: Is a directory
+/home/altaf/pika: Is a directory
+/home/altaf/temp2.txt
+altaf@LAPTOP-DGNIK4U9:~$ hashdeep -s -x hashset2.txt
+altaf@LAPTOP-DGNIK4U9:~$ hashdeep -s -x hashset2.txt *
+altaf@LAPTOP-DGNIK4U9:~$ hashdeep -x hashset2.txt *
+hashdeep: Unable to load any matching files.
+Try `hashdeep -h` for more information.
+altaf@LAPTOP-DGNIK4U9:~$ hashdeep -x hashset2.txt
+hashdeep: Unable to load any matching files.
+Try `hashdeep -h` for more information.
+altaf@LAPTOP-DGNIK4U9:~$ hashdeep -x hashset1.txt
+hashdeep: Unable to load any matching files.
+Try `hashdeep -h` for more information.
+altaf@LAPTOP-DGNIK4U9:~$ hashdeep -x hashset1.txt *
+hashdeep: Unable to load any matching files.
+Try `hashdeep -h` for more information.
+altaf@LAPTOP-DGNIK4U9:~$ hashdeep -x hashset2.txt *
+hashdeep: Unable to load any matching files.
+Try `hashdeep -h` for more information.
+altaf@LAPTOP-DGNIK4U9:~$ hashdeep *.txt > hashset2.txt
+altaf@LAPTOP-DGNIK4U9:~$ hashdeep -x hashset2.txt *
+hashdeep: Unable to load any matching files.
+Try `hashdeep -h` for more information.
+altaf@LAPTOP-DGNIK4U9:~$ cat hashset2.txt
+%%%% HASHDEEP-1.0
+%%%% size,md5,sha256,filename
+## Invoked from: /home/altaf
+## $ hashdeep hashset1.txt hashset2.txt new1.txt sample.txt te.txt temp.txt temp2.txt temp3.txt
+##
+0,d41d8cd98f00b204e9800998ecf8427e,e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855,/home/altaf/hashset2.txt
+29,e8c660fc4afb342ab40e077c3f136ab6,16c36cf57cf70b240ed0848470ff234c561a135cfc01822c1797b522c07a4186,/home/altaf/sample.txt
+50,f7d9a12b9cd5872e4f9c77c22d9883ac,94f04ea1fb80b97d47fa000a81fcb7bf6a619b0d84ef5e2027ff1a0d36f5afcb,/home/altaf/te.txt
+228,4ce290368399665e5657ae36da082402,53afedb0faadf1ac90e9d33c4782af25c084f90bed963b31a70130d1727f8e93,/home/altaf/hashset1.txt
+5,66ccbf65cfdd62597d3a7aaabd8a24c7,0520f85b16f1baa6ca41878981bf1848bcce551fc2c7f1e6d2297fc6ed0389ea,/home/altaf/new1.txt
+37,482ce0fe1e08d7028ec50b1207c9a2d7,f28b9d898a0ea11ea88f9a50af697f46fbc073e3351bd20c7973d54441dc364b,/home/altaf/temp.txt
+17,e3db351ab30cfb49b96c96986ca2136d,afd71d9d7b3993958db039f338d4fb4a8aedaeb2463238a508db4ef3f0f20af3,/home/altaf/temp2.txt
+36,9999888d6966f678f76c25b72b2b7635,ad1c4f221782d919bddcf78b9ddb875d0f1a48ef3b4ffffc1b3d019f7fd1feb1,/home/altaf/temp3.txt
+altaf@LAPTOP-DGNIK4U9:~$ hashdeep *.txt > hashset2.txt
+altaf@LAPTOP-DGNIK4U9:~$ hashdeep -x hashset2.txt *
+hashdeep: Unable to load any matching files.
+Try `hashdeep -h` for more information.
+altaf@LAPTOP-DGNIK4U9:~$ cat hashset2.txt
+%%%% HASHDEEP-1.0
+%%%% size,md5,sha256,filename
+## Invoked from: /home/altaf
+## $ hashdeep hashset1.txt new1.txt sample.txt te.txt temp.txt temp2.txt temp3.txt
+##
+29,e8c660fc4afb342ab40e077c3f136ab6,16c36cf57cf70b240ed0848470ff234c561a135cfc01822c1797b522c07a4186,/home/altaf/sample.txt
+228,4ce290368399665e5657ae36da082402,53afedb0faadf1ac90e9d33c4782af25c084f90bed963b31a70130d1727f8e93,/home/altaf/hashset1.txt
+37,482ce0fe1e08d7028ec50b1207c9a2d7,f28b9d898a0ea11ea88f9a50af697f46fbc073e3351bd20c7973d54441dc364b,/home/altaf/temp.txt
+5,66ccbf65cfdd62597d3a7aaabd8a24c7,0520f85b16f1baa6ca41878981bf1848bcce551fc2c7f1e6d2297fc6ed0389ea,/home/altaf/new1.txt
+50,f7d9a12b9cd5872e4f9c77c22d9883ac,94f04ea1fb80b97d47fa000a81fcb7bf6a619b0d84ef5e2027ff1a0d36f5afcb,/home/altaf/te.txt
+17,e3db351ab30cfb49b96c96986ca2136d,afd71d9d7b3993958db039f338d4fb4a8aedaeb2463238a508db4ef3f0f20af3,/home/altaf/temp2.txt
+36,9999888d6966f678f76c25b72b2b7635,ad1c4f221782d919bddcf78b9ddb875d0f1a48ef3b4ffffc1b3d019f7fd1feb1,/home/altaf/temp3.txt
+altaf@LAPTOP-DGNIK4U9:~$ hashdeep -x hashset1.txt *
+hashdeep: Unable to load any matching files.
+Try `hashdeep -h` for more information.
+altaf@LAPTOP-DGNIK4U9:~$ hashdeep -h
+hashdeep version 4.4 by Jesse Kornblum and Simson Garfinkel.
+$ hashdeep [OPTION]... [FILES]...
+-c <alg1,[alg2]> - Compute hashes only. Defaults are MD5 and SHA-256
+                   legal values: md5,sha1,sha256,tiger,whirlpool,
+-p <size> - piecewise mode. Files are broken into blocks for hashing
+-r        - recursive mode. All subdirectories are traversed
+-d        - output in DFXML (Digital Forensics XML)
+-k <file> - add a file of known hashes
+-a        - audit mode. Validates FILES against known hashes. Requires -k
+-m        - matching mode. Requires -k
+-x        - negative matching mode. Requires -k
+-w        - in -m mode, displays which known file was matched
+-M and -X act like -m and -x, but display hashes of matching files
+-e        - compute estimated time remaining for each file
+-s        - silent mode. Suppress all error messages
+-b        - prints only the bare name of files; all path information is omitted-l        - print relative paths for filenames
+-i/-I     - only process files smaller than the given threshold
+-o        - only process certain types of files. See README/manpage
+-v        - verbose mode. Use again to be more verbose
+-d        - output in DFXML; -W FILE - write to FILE.
+-j <num>  - use num threads (default 4)
+altaf@LAPTOP-DGNIK4U9:~$ hashdeep -x -k hashset2.txt *
+/home/altaf/a.pl
+/home/altaf/dvr.tcl
+/home/altaf/hello.tcl
+/home/altaf/hashset2.txt
+/home/altaf/ne: Is a directory
+/home/altaf/mytc.tr
+/home/altaf/out1.nam
+/home/altaf/mytcp.tr
+/home/altaf/pika: Is a directory
+/home/altaf/mytcp.nam
+/home/altaf/p1.sh
+/home/altaf/out1.tr
+/home/altaf/r.sh
+/home/altaf/rect.sh
+/home/altaf/s.sh
+/home/altaf/sample.txt.asc
+/home/altaf/receiverpublickey
+/home/altaf/sample.txt.gpg
+/home/altaf/senderpublickey
+/home/altaf/tee.sh
+/home/altaf/senderprivatekey
+/home/altaf/mytc.nam
+altaf@LAPTOP-DGNIK4U9:~$ hashdeep -x -k hashset2.txt *
+/home/altaf/a.pl
+/home/altaf/dvr.tcl
+/home/altaf/hashset2.txt
+/home/altaf/hello.tcl
+/home/altaf/ne: Is a directory
+/home/altaf/mytc.tr
+/home/altaf/mytcp.tr
+/home/altaf/out1.tr
+/home/altaf/pika: Is a directory
+/home/altaf/p1.sh
+/home/altaf/r.sh
+/home/altaf/receiverpublickey
+/home/altaf/rect.sh
+/home/altaf/s.sh
+/home/altaf/sample.txt.asc
+/home/altaf/sample.txt.gpg
+/home/altaf/senderprivatekey
+/home/altaf/senderpublickey
+/home/altaf/tee.sh
+/home/altaf/temp.txt
+/home/altaf/mytc.nam
+/home/altaf/mytcp.nam
+/home/altaf/out1.nam
+altaf@LAPTOP-DGNIK4U9:~$ hashdeep -c md5,sha1,sha256 -r /home/altaf > hashset3.txt
+/home/altaf/.gnupg/S.gpg-agent.browser: No such device or address
+/home/altaf/.gnupg/S.gpg-agent.extra: No such device or address
+/home/altaf/.gnupg/S.gpg-agent: No such device or address
+/home/altaf/.gnupg/S.gpg-agent.ssh: No such device or address
+/home/altaf/.docker/features.json: No such file or directory
+/home/altaf/.docker/run/docker-cli-api.sock: No such device or address
+altaf@LAPTOP-DGNIK4U9:~$ cat hashset3.txt
+%%%% HASHDEEP-1.0
+%%%% size,md5,sha1,sha256,filename
+## Invoked from: /home/altaf
+## $ hashdeep -c md5,sha1,sha256 -r /home/altaf
+##
+1024,fa0f2788e0fd0408ebca61ac5536771a,284cce5b5ae9a0043648f6348c2fd61ea4c24c6f,85b7ec1963610cf5e2bcf17dcc5fc4a27b980704eb27d173ad9066c20ac7db25,/home/altaf/hashset2.txt
+134,588fed89d5b65445285509f71ba596c3,2c2753d32adb0ce3e89144584c8c7b8aecd3d53f,f0a2de69feff1713787a0c74418c05329086d91a72bbeaa961d46f6b7a107eca,/home/altaf/rect.sh
+12288,2480d7390459b81efe2ec7be871228fe,3cea079fb8079de815a51d804cb0d6d653744e41,12fdbb6e61239f9d0922b3205c6400fb9a5994734821a3f7a33f359887f4e832,/home/altaf/.swo
+12288,da49e78b3c8e740b6cf02227157f8724,d8a35f71a33e29c8bcf5ad0235d682048b4553b2,c65dacff142018497831475c4b4484c148589e5d39e67e868b80da50bf62eb69,/home/altaf/.swp
+464,fe17e919bd1ae0c0220389968ed95df5,7e8d7a53baee97e753899996ca03b81ab1be0b83,6667026b8bda49b3871cb7aae3d8dcff6141fd9e8f8fe27266599dd083dc6199,/home/altaf/.dbus/session-bus/1871d6273826f63aa757e2656442ae28-0
+104,605c667910bb41e50e42134dbb613523,5188d50fcbb0eab3524f537adf06286384f04a6c,e10e709efbee1dcbaa546613086cec2aa110a7c627a00a12190884d7645e633c,/home/altaf/tee.sh
+36,9999888d6966f678f76c25b72b2b7635,257af850e64edba59829c4202dadbc566942da68,ad1c4f221782d919bddcf78b9ddb875d0f1a48ef3b4ffffc1b3d019f7fd1feb1,/home/altaf/temp3.txt
+1433,29b063b26def87629e4d11b01b007733,9df4bd1497080b69b9ebb2c23943b0ef8f93269a,679747f529a209451d309a2993e78153eb62bca95f64454e19806765720f6463,/home/altaf/.viminfo
+84,eb06b556b1f2150f2effff1851baf418,61e01902007bca41a33faedae0f1273f4eceb46c,351a7a5d9aa2d8c2597d77fadaef2532f75598e1ca5557e184437d3c944fd13f,/home/altaf/.rediscli_history
+324603,f6ca7b67162727a64bd284dacf93ca0e,311028b9d6a480fa560a7913350bc09a7511b16d,02beb444f79a71401541cdfd0535138be5f9554e39d3644a8c4e69604ac3655b,/home/altaf/out1.tr
+1827,be4b400e8d6bc079eb9335bcd468a6da,7bb29d75a6858fc879b5eda5081446f87ec178ca,c2ff879e2a9e35c22b6630405075014f94341cb596418c0fd9c62a232a4361b4,/home/altaf/hashset3.txt
+19,0a0b36919a72992b2c6172bb61c78c12,c905aaa8926db248ceb53143c2943de9a754d73d,ec37727ecaf62f968885327affc76f6257881c3784ce6fc3c10ba40a2b47255e,/home/altaf/hello.tcl
+324,fcd17103a34f960a2cbf2c946883f2eb,1b9f208994b07adb365f3715c5bfe77ecf6ebfe5,d32b500add1a4f083de06aab930f716c46427c50ff450e493b10a1f7f578013d,/home/altaf/a.pl
+207,28b33bc0881bfde8aa50c64c10c253de,784231b782aa3a4906e02a84e2b00885b04903c3,aba74ea9ae3903fc41cd797b1105e6d10607e41d31423571bc574b649cd36ed6,/home/altaf/r.sh
+228,4ce290368399665e5657ae36da082402,e6b6b5c268425c964a82afb2083bb96c22eae5b1,53afedb0faadf1ac90e9d33c4782af25c084f90bed963b31a70130d1727f8e93,/home/altaf/hashset1.txt
+523943,30f355d3510d53aa849306965fadabd8,fb8bba32cab62a66d87197cb1907efd67b750c89,918eb02b8116c40057bcb5a7dd36558e7a1816d6223fabe1970c6b0f586f8c19,/home/altaf/mytcp.tr
+3103,c9b0799acabbda7545248c54af771d2c,7ea3f78396bff9f42e5f76ff314cff6798d43f93,75d0f7706d5d0e7378f557fc5e869429828d638cc91af072f0f60e7b4c9007e1,/home/altaf/.gnupg/private-keys-v1.d/C2C3A6A8A615223DC4A850EB7093A0C2DB313F28.key
+1253,d0b68412fb473fc4b8e6e14d0c82e881,de85a5ce1bae55cab4c3b64773fc1bd5bcef9475,304c60a516410acc07b4f10b414942fcc07c9925ce62b66abe7520be2b526017,/home/altaf/.gnupg/private-keys-v1.d/30BEA94734BEEA7E2106F68F3E9FBF0C4628882D.key
+3105,37da145cf7939959e2c506d7e906ee48,36358b050a1f4be74b8189d722d3280fef61f887,df05b456e0d8d277802af1e0b58b9979b5679573594d8048fbc4b44479486517,/home/altaf/.gnupg/private-keys-v1.d/7C4D67920F58C26D36B21C3E76307D74B4903CE4.key
+1253,3b32282eec33a04a2ecc6894dc536004,7635e830507513d6bb1127ad9621df2cc6fa4b47,7c63488108baf726484d317c213aebc49009cd731c0c7b18565c011dd2f75bc6,/home/altaf/.gnupg/private-keys-v1.d/F30E01636C490608F75D4B3A4BFC7F2CF4E55F84.key
+2877,759b298eefb3c6a2323164a134eb4986,0f5f3d2a3cda85fd862c0c13e2aa4539a45fa96c,89e879df2a1ee57f3e51fc419e902639e4eeb8d85bb6d7435a0be5aa9b550ec0,/home/altaf/.gnupg/pubring.kbx
+600,2379a51b24237a73a40233119f42bf79,143a5cc3759f50cd0a7cfc7334ebc30204c57d38,1bed830f18bd85252567d725d199f7c11cf65fbbebee597ec4c960cbe36c6f91,/home/altaf/.gnupg/random_seed
+1360,31b532dea4a52d644b5e4641c5125a47,70e8f34c3679773d32fc269d0e16aa8634c567f7,64ca8ee76aa0aa12c7e2dd36f14e6ee28fbd5035230e9d346d61f1318f76e234,/home/altaf/.gnupg/trustdb.gpg
+1285,3681209b21e5bbb3a2aae2fbeb63e992,7eb84796fff5adb32ac8d04248c7eb0ca244dd98,ce50db2b6c900fcdfce5039d7855f832f0e861259b600d35e387df6099ede71c,/home/altaf/.gnupg/openpgp-revocs.d/9CFE52FA8CD6277261A2CA753445F5154B9677DD.rev
+1625,fc3ea9f5a34fdc933b6e583db70260a8,7cb7a508a4aca67d1750894f98e3d395a805ce15,73906bc7fb184ee68a490d5fde954b08d07059f5932ae4021b33d2717787a11d,/home/altaf/.gnupg/openpgp-revocs.d/DAE2FEFE533EB973088483EEE9B72E6F838D6A97.rev
+944,f6eb08b616109ddb84618b53ccda82c4,039fe6b4a4c7925981d1089b423457c26408e596,2ca677febbe7f50c4d649da907e6b61a1a762605795429245ee20b68db1a5567,/home/altaf/.gnupg/pubring.kbx~
+0,d41d8cd98f00b204e9800998ecf8427e,da39a3ee5e6b4b0d3255bfef95601890afd80709,e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855,/home/altaf/.sudo_as_admin_successful
+29,e8c660fc4afb342ab40e077c3f136ab6,9193506eab7de6639aa5e58dad485c1e8f06a603,16c36cf57cf70b240ed0848470ff234c561a135cfc01822c1797b522c07a4186,/home/altaf/sample.txt
+132,ec5c1e524ddd65ac0bee440ac122b440,edf77317ba8f87de2d6a7c26622d8878da9ed981,7fdf862ab9a8081f00f49f929845d27f28af68208bc38d08beaa2d2e8d6daeb7,/home/altaf/p1.sh
+20,b990bcabb668d0e7d72c687da363bac3,16999ffa3f9886e9c2aa89c359f09af38bafd5c5,be19ca9dca233aea9918a115d8ff364d5ac0b07aae5b0d5424bdc42201953961,/home/altaf/.lesshst
+750133,f387368bcebc73632bd738bb25cb0a4e,f819aede4e8a39252c1e738d61bb386294a26855,aabdfe72d6035ea2fcc79177bebb53ed03185d374ed6ddf36410def153f17b65,/home/altaf/out1.nam
+1209169,f1aab19dc7b3b9d92deeb35bf253fa77,fe966867239477c04f1c3d783b4051bd8b822848,67e1f283389e8650ddb4c3e2bfd138ea159618de28d855d6bffd8433f34add3f,/home/altaf/mytc.nam
+34,d8a4ce1124d07fe506489e513b6689e0,bbed65452952b98fe5a355bd8550f268c06b62ce,13e051486615a60a7ecdba7c62a478436caa40bd924b2a118ffdf88941d3e517,/home/altaf/.docker/config.json
+3,8a80554c91d9fca8acb82f023de02f11,5f36b2ea290645ee34d943220a14b54ee5ea5be5,ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356,/home/altaf/.docker/scan/config.json
+4981,6efc162a950c62fed932fe90958fb796,04544fce4408f5cbe39986f8764429317a848346,4ffe1b5b8d6010d526658af92eb709148809d73e443c19d46a2bcd4d360cefc2,/home/altaf/.docker/desktop/log/host/docker-desktop-user-distro.log
+166,00ce75bdb6055b5137b6a29b962d1396,aa2b1b2be6e81b36e248c21e653699fc447c2447,f163ce1c15933fe8f4dc6d64e055e4964a7bf885328cef4dccb68a1b76a35231,/home/altaf/.docker/contexts/meta/fe9c6bd7a66301f49ca9b6a70b217107cd1284598bfc254700c989b916da791e/meta.json
+977,c85ef9caa2f03551e45e96ba7d6783ec,c5cf2aa0d4fee5bb4684ce4acb74412479daf406,70d69843423e1d90adc1233e12c02cf43b03aebf2dd77469ded254406124d69c,/home/altaf/dvr.tcl
+5,66ccbf65cfdd62597d3a7aaabd8a24c7,1904c437b1d849a7bdfb4a78b4e56fec785dbcdd,0520f85b16f1baa6ca41878981bf1848bcce551fc2c7f1e6d2297fc6ed0389ea,/home/altaf/new1.txt
+494,16c18ccd2d5e02ed614eb9e999a9cc1d,57d31cd680ea295079b9c60cdafb990ecedb4d0c,14bc516163c3e779695481cc9a907856f415b18689717b4d9b36296250e5c5e3,/home/altaf/sample.txt.gpg
+19,3453e97fb63d67f2fd961be6d1f57b6a,13409c7d390763b8673f893d73ba2c226abd7e19,40086d0feceb5c41d78b3e3b93ae6e8b86449c51da321af7034c6cca4daf86c7,/home/altaf/pika/temp4.txt
+42212,39e14f56575325c6761e0001c2c394fb,e3bcfff2b274ca543ed272e62fd383d8aaa76552,dd9117fc731ff2aee9ab31a7b5e6d89ee09fa37e4958c435f4900128155343ce,/home/altaf/.vscode-remote-containers/dist/vscode-remote-containers-server-0.309.0.js
+1420,1e5f4529b98c24acbbf60ce7ac10bafb,5e0406dea8d32adf54b65d31323e5156b06ceed0,2f7682bdcbcd4294b0685d279218079651d14c6cd79f6d48241ed90db1bcf3c7,/home/altaf/.vscode-remote-containers/bin/8b617bd08fd9e3fc94d14adb8d358b56e3f72314/node_modules/node-pty/package.json
+801,dd2333df44d448612ad751a5949a7fef,03a361732acbdb65c5812eceee5697709b692f88,7e43fd98fec122439a75a0bc03542bf2bbc6e80ff58260cff80dda77ac809639,/home/altaf/.vscode-remote-containers/bin/8b617bd08fd9e3fc94d14adb8d358b56e3f72314/node_modules/node-pty/lib/worker/conoutSocketWorker.js
+721,25d5e76a85662acaf0722d1a114a9cb9,72538c7ecd16d85fa49ff6df673a1cab702fad2b,08f9ddf271cae63b928717a0a2a58f3d6e3b481428b6dea434351ee84233db23,/home/altaf/.vscode-remote-containers/bin/8b617bd08fd9e3fc94d14adb8d358b56e3f72314/node_modules/node-pty/lib/conpty_console_list_agent.js
+39672,34dae45cbeb30e51ad95f18732b71fbf,e53d1b8c178b13c751c6f038bd5803ecbc42dff6,d5afaf16ca04d609c19618d277bb08557d30308224cd5726d150e103c277aef9,/home/altaf/.vscode-remote-containers/bin/8b617bd08fd9e3fc94d14adb8d358b56e3f72314/node_modules/node-pty/build/Release/pty.node
+5965,5cb773c129058a0c0469bad447c12fa5,1e5511e3bca9ff144ef6ec4e8f2d03425e01440d,04330fe612120993dd7e15517fee9d58c939b6dc035670b8190a5b2dfb86a008,/home/altaf/.vscode-remote-containers/bin/8b617bd08fd9e3fc94d14adb8d358b56e3f72314/node_modules/node-pty/lib/windowsConoutConnection.js
+11007,9fad19d65d9ebef1c995fbecfc5a531b,029650f5839b312dd7ace5a23138881a5b6f473e,8fd3b1a6cfdb5e06a97168838e17b682a53d896d3d6925f2ad44dd19b9654fcd,/home/altaf/.vscode-remote-containers/bin/8b617bd08fd9e3fc94d14adb8d358b56e3f72314/node_modules/node-pty/lib/unixTerminal.js
+1558,88f6e89d67ec8f62042a41960daf55a0,ecc246e9593001eb6f3542e971241dc3295b5e86,6d0b580a35ecffe0e145ddb20a5a1bc8e48ad2aad75094dca82d765c589cfbab,/home/altaf/.vscode-remote-containers/bin/8b617bd08fd9e3fc94d14adb8d358b56e3f72314/node_modules/node-pty/lib/eventEmitter2.js
+7417,59db6ba9037065e2fb161a90fdc3e4cd,00d41497b7f2254d8f9e9eb3bec514cd79809397,256212b0828752b0ef0f4a2ee5083c07088a7005f2c2180882691d37e4e67e4a,/home/altaf/.vscode-remote-containers/bin/8b617bd08fd9e3fc94d14adb8d358b56e3f72314/node_modules/node-pty/lib/terminal.js
+546,468f959deaf618eaed69ae9618eba881,7f9e7f319d639768fdc43af765b795a2b66ee217,92107adc4a7409d9089e682c5aeeee865921c18b8468fb6ffd72570ce6a873fc,/home/altaf/.vscode-remote-containers/bin/8b617bd08fd9e3fc94d14adb8d358b56e3f72314/node_modules/node-pty/lib/utils.js
+7944,4bbb8ed996e7da0faca4e11ff3a0f555,76c1f9c456518a36cdf4ae63500a7ebf12aa5d89,9e60219c86d5e9ae5d7c6857f80b73535b5c5039a3122e7c6c1188b61a1ab1d4,/home/altaf/.vscode-remote-containers/bin/8b617bd08fd9e3fc94d14adb8d358b56e3f72314/node_modules/node-pty/lib/windowsTerminal.js
+1938,6e8ec45f11a5d24a9c783bcacb4f7e53,f1649d4c738e7533b55380584324d0739f91c493,6474a0fd14035bfc0165aa851cf1b0f61003ee19b6bf0476bcda2eebceb17547,/home/altaf/.vscode-remote-containers/bin/8b617bd08fd9e3fc94d14adb8d358b56e3f72314/node_modules/node-pty/lib/index.js
+12417,558746061e9dd86b1c4fd229d99b2ec6,9249ded6ae85a5a911ee60fb4b19bf00cb32279a,dbb53fa9905c3a9ea5d2136686b149691f63a1b80719d5b1f480267f540414cb,/home/altaf/.vscode-remote-containers/bin/8b617bd08fd9e3fc94d14adb8d358b56e3f72314/node_modules/node-pty/lib/windowsPtyAgent.js
+194,9e335e0f2febede5a0039bad774cf8af,5192e67bb81afeb5e6691f5ceac28eb6b2355fef,292d91c8305dc7c314f892a8603a0e4a0dfb5672c770fb22afe549479e937633,/home/altaf/.vscode-remote-containers/bin/8b617bd08fd9e3fc94d14adb8d358b56e3f72314/node_modules/node-pty/lib/types.js
+194,3d6cb8389dcd0d05bfaebfcf6d67bd59,1564d9411e48d0090bd86fff434bbc6a4bb2b134,ca8b8b47b4e9de070e60dcad84234902d90489147596bc96278fb34d82d7dbb6,/home/altaf/.vscode-remote-containers/bin/8b617bd08fd9e3fc94d14adb8d358b56e3f72314/node_modules/node-pty/lib/interfaces.js
+3326,c52651784ba3971ee506ab612dd90b72,e13d4dc9bfe2d566a510e2ef6c58150602140149,a3d60eaf32d2fb09c9d82ef39f14bd6e2c0f3ca7de30daa827486c0d6f8b6e9f,/home/altaf/.vscode-remote-containers/bin/8b617bd08fd9e3fc94d14adb8d358b56e3f72314/node_modules/node-pty/LICENSE
+313,cb58f64b6b6ae4895eba76329e70168f,0bb0c47ac2e21032cdb3a580d00e5f73d71e71c9,d2cf0b675a75bc99b9577d8237f5b2d77b62a18a5c10de996e7ac061be180d75,/home/altaf/.vscode-remote-containers/bin/8b617bd08fd9e3fc94d14adb8d358b56e3f72314/node_modules/node-pty/lib/shared/conout.js
+3419,031b714899170db2ac768a58e00288ca,5805528ce8568e50b7663cebe1bc5b5c811d4a1d,fa4e27f0d6de6fed79687ca4e9a75229f88eebcff1c6ec2d6c8edb14a33ba4ee,/home/altaf/senderpublickey
+13380,8d09a4b68713590a3ed601f545e79e29,d1e285f5e4ae0832a8362a1f8a9f952591a74ed4,b30dc57b522e7b728e453d0683dbc82982614c609f26225493bb21bb8518493d,/home/altaf/.vscode-remote-containers/bin/8b617bd08fd9e3fc94d14adb8d358b56e3f72314/LICENSE
+992,bcd5af84611e1d98101874c165232a3c,4a9f60e4748b9efdb3a5baf43de1cdd3ab13ee93,990dcf1604cc932fbd11f47204b63f2b9c7467cde3f6b8680f363cc2c5e27967,/home/altaf/sample.txt.asc
+45,3f5693ee57cbcf881bb7a91476023918,42f76645cf25cb4888674832858b93191930c4c1,95c71bda62d60a58847228ad389aa944b664ac0fc6c13bff430a4c0f53ae78c2,/home/altaf/temp.txt
+807,f4e81ade7d6f9fb342541152d08e7a97,2b9ee6d446f8f9ffccaab42b6df5649f749a9a07,28b4a453b68dde64f814e94bab14ee651f4f162e15dd9920490aa1d49f05d2a4,/home/altaf/.profile
+2860,81ee7aeab8555ec7cb0f72e1f9b61cc9,5102345e8ede641b9816aa669f75a9d3222a0631,59b91fa2c6db0c7b786cebd0254c698bc245e2401dbc5d3c7309a55c05f68323,/home/altaf/.config/wireshark/recent
+2129,7212eea929a383eba12f30b2e6c4f3cd,94a8e28ca562df6eb277b679fed5ef43dbad55a3,a41ec65835ab6be52b5dfcda89ccc412f02a7013269a0b1684dd75883d6f2df1,/home/altaf/.config/wireshark/recent_common
+0,d41d8cd98f00b204e9800998ecf8427e,da39a3ee5e6b4b0d3255bfef95601890afd80709,e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855,/home/altaf/.config/enchant/en_US.dic
+0,d41d8cd98f00b204e9800998ecf8427e,da39a3ee5e6b4b0d3255bfef95601890afd80709,e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855,/home/altaf/.config/enchant/en_US.exc
+102,44ca9eff853cd7a8f9c1ba0bcf0c9064,f09dcf877fcf2329996584d6b07b062c383283de,6a1e573c0068dc87d4f0fbe6782d0a253dd60b9f37b7f6c5c4d6c72547f16c05,/home/altaf/.config/gedit/accels
+1309,de19d7f6647355d3f0eb5357c35a62e8,92803aa6283c2d2692543fc7194818c12589c1d9,8212ca84931c19959ea60de8c9902349dc7201e807e7444ee218ab434358dbe9,/home/altaf/.config/dconf/user
+220745,e7cac757e7157df724ac9334973430c7,9de70320258816341440c0d27a8dfa14d66da3c6,c5d5be836fa126326fc6c1cb945f91b6dd93c6bf9b190e8e243ae8d2c4a31533,/home/altaf/.config/wireshark/preferences
+276,a455c3d189884fc8b6ca674e74bdffaf,21819b1150488f45d1af03e565f80d791783fdce,9a10246bda8590bbedb5b1f0c97f10c9ef8a893f6d25188b82d619b089b356b2,/home/altaf/s.sh
+6273,d3d8fe7034de18c68dba8a1d36d92940,c4193db3245ad9efdced06524826c731d62c13d2,459cb78fc090d58177f880e088c4e8308d369081860201b7cf931fa9eba9d1e0,/home/altaf/.local/share/recently-used.xbel
+815,21fa015a798a2fd5b0bd9ff5c720b8f9,99c55d8f638d7fab2a518303d8eb3e08053e9991,178e1c54a557f18d97bd1d1afd21bf3e94c38229483e5ebdcd266ef45152545e,/home/altaf/.local/share/recently-used.xbel.UWQX31
+523943,30f355d3510d53aa849306965fadabd8,fb8bba32cab62a66d87197cb1907efd67b750c89,918eb02b8116c40057bcb5a7dd36558e7a1816d6223fabe1970c6b0f586f8c19,/home/altaf/mytc.tr
+220,22bfb8c1dd94b5f3813a2b25da67463f,dc216ac4a4c232815731979db6e494f315b507dd,26882b79471c25f945c970f8233d8ce29d54e9d5eedcd2884f88affa84a18f56,/home/altaf/.bash_logout
+7199,3c979bde732d515898045803b65e7c01,a204613c68ab3087eb976f6e0554a57e482166b8,8f2f10cb98667b33c6d0ee35336948179450d5ddd8ede1b214bc044f858489c1,/home/altaf/senderprivatekey
+1209169,f1aab19dc7b3b9d92deeb35bf253fa77,fe966867239477c04f1c3d783b4051bd8b822848,67e1f283389e8650ddb4c3e2bfd138ea159618de28d855d6bffd8433f34add3f,/home/altaf/mytcp.nam
+17,e3db351ab30cfb49b96c96986ca2136d,ab14a92fed996ca526fa87ab1ca1ac23dc4997a2,afd71d9d7b3993958db039f338d4fb4a8aedaeb2463238a508db4ef3f0f20af3,/home/altaf/temp2.txt
+2440,c2211d50403f8c536eecd0c777a14e17,52f098a9b6f79ba2ece109a62a7761cb109f06f8,39fc1d9a3d9ca45c8f50357e3949fbf135462ef1f467bbda13f6c8bbc9673a48,/home/altaf/receiverpublickey
+0,d41d8cd98f00b204e9800998ecf8427e,da39a3ee5e6b4b0d3255bfef95601890afd80709,e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855,/home/altaf/.motd_shown
+29,e8c660fc4afb342ab40e077c3f136ab6,9193506eab7de6639aa5e58dad485c1e8f06a603,16c36cf57cf70b240ed0848470ff234c561a135cfc01822c1797b522c07a4186,/home/altaf/decryptedfile
+50,f7d9a12b9cd5872e4f9c77c22d9883ac,fb7c51d07753e5d63f7a4e88987c102f83898182,94f04ea1fb80b97d47fa000a81fcb7bf6a619b0d84ef5e2027ff1a0d36f5afcb,/home/altaf/te.txt
+3771,1f98b8f3f3c8f8927eca945d59dcc1c6,c4d853993e323432cb84359de2c319b9a767b729,342099da4dd28c394d3f8782d90d7465cb2eaa611193f8f378d6918261cb9bb8,/home/altaf/.bashrc
+4601,5fc396341a69b30c2f94c79a0962147f,078891d728459fe0e3ee9707468d3c8d3c8e5383,d1a1c90a374ac7b0bfb9445dceffff37cfe4cf701ff267ef2cbfb24a6d4ac0f1,/home/altaf/.bash_history
+90804416,1a7b9bec81ea889bb94666df0d1a588f,7bf9cbfc8d4b4792201c8b38b37969c02426bf90,1de6aa7cc9ca937c0ad77eabb56ce92019e943051b957013534243b52f167939,/home/altaf/.vscode-remote-containers/bin/8b617bd08fd9e3fc94d14adb8d358b56e3f72314/node
+altaf@LAPTOP-DGNIK4U9:~$ hashdeep -a -r -k hashset1.txt /home/altaf
+/home/altaf/.gnupg/S.gpg-agent: No such device or address
+/home/altaf/.gnupg/S.gpg-agent.browser: No such device or address
+/home/altaf/.gnupg/S.gpg-agent.extra: No such device or address
+/home/altaf/.gnupg/S.gpg-agent.ssh: No such device or address
+/home/altaf/.docker/features.json: No such file or directory
+/home/altaf/.docker/run/docker-cli-api.sock: No such device or address
+hashdeep: Audit failed
+altaf@LAPTOP-DGNIK4U9:~$ hashdeep -a -r -k hashset3.txt /home/altaf
+/home/altaf/.gnupg/S.gpg-agent: No such device or address
+/home/altaf/.gnupg/S.gpg-agent.browser: No such device or address
+/home/altaf/.gnupg/S.gpg-agent.extra: No such device or address
+/home/altaf/.gnupg/S.gpg-agent.ssh: No such device or address
+/home/altaf/.docker/features.json: No such file or directory
+/home/altaf/.docker/run/docker-cli-api.sock: No such device or address
+hashdeep: Audit failed
+altaf@LAPTOP-DGNIK4U9:~$ hashdeep -c md5,sha1,sha256 -r /home/altaf/pika > hashset3.txt
+altaf@LAPTOP-DGNIK4U9:~$ cat hashset3.txt
+%%%% HASHDEEP-1.0
+%%%% size,md5,sha1,sha256,filename
+## Invoked from: /home/altaf
+## $ hashdeep -c md5,sha1,sha256 -r /home/altaf/pika
+##
+36,9999888d6966f678f76c25b72b2b7635,257af850e64edba59829c4202dadbc566942da68,ad1c4f221782d919bddcf78b9ddb875d0f1a48ef3b4ffffc1b3d019f7fd1feb1,/home/altaf/pika/temp3.txt
+19,3453e97fb63d67f2fd961be6d1f57b6a,13409c7d390763b8673f893d73ba2c226abd7e19,40086d0feceb5c41d78b3e3b93ae6e8b86449c51da321af7034c6cca4daf86c7,/home/altaf/pika/temp4.txt
+17,e3db351ab30cfb49b96c96986ca2136d,ab14a92fed996ca526fa87ab1ca1ac23dc4997a2,afd71d9d7b3993958db039f338d4fb4a8aedaeb2463238a508db4ef3f0f20af3,/home/altaf/pika/temp2.txt
+45,3f5693ee57cbcf881bb7a91476023918,42f76645cf25cb4888674832858b93191930c4c1,95c71bda62d60a58847228ad389aa944b664ac0fc6c13bff430a4c0f53ae78c2,/home/altaf/pika/temp.txt
+altaf@LAPTOP-DGNIK4U9:~$ hashdeep -a -r -k hashset3.txt /home/altaf/pika
+hashdeep: Audit passed
+altaf@LAPTOP-DGNIK4U9:~$ hashdeep -a -r -k hashset3.txt /home/altaf/pika
+hashdeep: Audit failed
+altaf@LAPTOP-DGNIK4U9:~$ hashdeep -a -r -k hashset3.txt /home/altaf/pika
+hashdeep: Audit passed
+altaf@LAPTOP-DGNIK4U9:~$ hashdeep -a -r -k hashset3.txt /home/altaf/pika
+hashdeep: Audit failed
+altaf@LAPTOP-DGNIK4U9:~$ hashdeep -v -a -r -k hashset3.txt /home/altaf/pika
+hashdeep: Audit failed
+          Files matched: 4
+Files partially matched: 0
+            Files moved: 0
+        New files found: 1
+  Known files not found: 0
+altaf@LAPTOP-DGNIK4U9:~$ hashdeep -v -a -r -k hashset3.txt /home/altaf/pika
+hashdeep: Audit failed
+          Files matched: 3
+Files partially matched: 0
+            Files moved: 0
+        New files found: 2
+  Known files not found: 1
+altaf@LAPTOP-DGNIK4U9:~$ hashdeep -v -a -r -k hashset3.txt /home/altaf/pika
+hashdeep: Audit failed
+          Files matched: 3
+Files partially matched: 0
+            Files moved: 0
+        New files found: 2
+  Known files not found: 1
+altaf@LAPTOP-DGNIK4U9:~$ hashdeep -c md5,sha1,sha256 -r /home/altaf/pika > hashset3.txt
+altaf@LAPTOP-DGNIK4U9:~$ hashdeep -v -a -r -k hashset3.txt /home/altaf/pika
+hashdeep: Audit passed
+          Files matched: 5
+Files partially matched: 0
+            Files moved: 0
+        New files found: 0
+  Known files not found: 0
+altaf@LAPTOP-DGNIK4U9:~$ mv /home/altaf/pika/temp2.txt /ne
+mv: cannot move '/home/altaf/pika/temp2.txt' to '/ne': Permission denied
+altaf@LAPTOP-DGNIK4U9:~$ mv /home/altaf/pika/temp2.txt /home/altaf/ne
+altaf@LAPTOP-DGNIK4U9:~$ hashdeep -v -a -r -k hashset3.txt /home/altaf/pika
+hashdeep: Audit failed
+          Files matched: 4
+Files partially matched: 0
+            Files moved: 0
+        New files found: 0
+  Known files not found: 1
+altaf@LAPTOP-DGNIK4U9:~$ hashdeep -v -a -r -k hashset3.txt /home/altaf/pika
+hashdeep: Audit failed
+          Files matched: 3
+Files partially matched: 0
+            Files moved: 1
+        New files found: 0
+  Known files not found: 1
+altaf@LAPTOP-DGNIK4U9:~$ hashdeep -vv -a -r -k hashset3.txt /home/altaf/pika
+/home/altaf/pika/fellow2.txt: Moved from /home/altaf/pika/fellow.txt
+/home/altaf/pika/temp2.txt: Known file not used
+hashdeep: Audit failed
+   Input files examined: 0
+  Known files expecting: 0
+          Files matched: 3
+Files partially matched: 0
+            Files moved: 1
+        New files found: 0
+  Known files not found: 1
+altaf@LAPTOP-DGNIK4U9:~$ hashdeep -vvv -a -r -k hashset3.txt /home/altaf/pika
+/home/altaf/pika/temp3.txt: Ok
+/home/altaf/pika/ew/temp.txt: Ok
+/home/altaf/pika/fellow2.txt: Moved from /home/altaf/pika/fellow.txt
+/home/altaf/pika/temp4.txt: Ok
+/home/altaf/pika/temp2.txt: Known file not used
+hashdeep: Audit failed
+   Input files examined: 0
+  Known files expecting: 0
+          Files matched: 3
+Files partially matched: 0
+            Files moved: 1
+        New files found: 0
+  Known files not found: 1
+altaf@LAPTOP-DGNIK4U9:~$ hashdeep -h
+hashdeep version 4.4 by Jesse Kornblum and Simson Garfinkel.
+$ hashdeep [OPTION]... [FILES]...
+-c <alg1,[alg2]> - Compute hashes only. Defaults are MD5 and SHA-256
+                   legal values: md5,sha1,sha256,tiger,whirlpool,
+-p <size> - piecewise mode. Files are broken into blocks for hashing
+-r        - recursive mode. All subdirectories are traversed
+-d        - output in DFXML (Digital Forensics XML)
+-k <file> - add a file of known hashes
+-a        - audit mode. Validates FILES against known hashes. Requires -k
+-m        - matching mode. Requires -k
+-x        - negative matching mode. Requires -k
+-w        - in -m mode, displays which known file was matched
+-M and -X act like -m and -x, but display hashes of matching files
+-e        - compute estimated time remaining for each file
+-s        - silent mode. Suppress all error messages
+-b        - prints only the bare name of files; all path information is omitted-l        - print relative paths for filenames
+-i/-I     - only process files smaller than the given threshold
+-o        - only process certain types of files. See README/manpage
+-v        - verbose mode. Use again to be more verbose
+-d        - output in DFXML; -W FILE - write to FILE.
+-j <num>  - use num threads (default 4)
+altaf@LAPTOP-DGNIK4U9:~$ hashdeep -hh
+hashdeep version 4.4 by Jesse Kornblum and Simson Garfinkel.
+$ hashdeep [OPTION]... [FILES]...
+-c <alg1,[alg2]> - Compute hashes only. Defaults are MD5 and SHA-256
+                   legal values: md5,sha1,sha256,tiger,whirlpool,
+-p <size> - piecewise mode. Files are broken into blocks for hashing
+-r        - recursive mode. All subdirectories are traversed
+-d        - output in DFXML (Digital Forensics XML)
+-k <file> - add a file of known hashes
+-a        - audit mode. Validates FILES against known hashes. Requires -k
+-m        - matching mode. Requires -k
+-x        - negative matching mode. Requires -k
+-w        - in -m mode, displays which known file was matched
+-M and -X act like -m and -x, but display hashes of matching files
+-e        - compute estimated time remaining for each file
+-s        - silent mode. Suppress all error messages
+-b        - prints only the bare name of files; all path information is omitted-l        - print relative paths for filenames
+-i/-I     - only process files smaller than the given threshold
+-o        - only process certain types of files. See README/manpage
+-v        - verbose mode. Use again to be more verbose
+-d        - output in DFXML; -W FILE - write to FILE.
+-j <num>  - use num threads (default 4)
+-f <file> - Use file as a list of files to process.
+-V        - display version number and exit
+-0        - use a NUL (\0) for newline.
+-u        - escape Unicode
+-E        - Use case insensitive matching for filenames in audit mode
+-B        - verbose mode; repeat for more verbosity
+-C        - OS X only --- use Common Crypto hash functions
+-Fb       - I/O mode buffered; -Fu unbuffered; -Fm memory-mapped
+-o[bcpflsde] - Expert mode. only process certain types of files:
+               b=block dev; c=character dev; p=named pipe
+               f=regular file; l=symlink; s=socket; d=door e=Windows PE
+-D <num>  - set debug level
+altaf@LAPTOP-DGNIK4U9:~$

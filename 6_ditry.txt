@@ -1,0 +1,744 @@
+Microsoft Windows [Version 10.0.22621.2428]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Users\abdul>ubuntu
+altaf@LAPTOP-DGNIK4U9:~$ dmitry -wnse -o dmitry-info.txt yahoo.com
+Deepmagic Information Gathering Tool
+"There be some deep magic going on"
+
+Writing output to 'dmitry-info.txt'
+
+HostIP:74.6.231.21
+HostName:yahoo.com
+
+Gathered Inic-whois information for yahoo.com
+---------------------------------
+   Domain Name: YAHOO.COM
+   Registry Domain ID: 3643624_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.markmonitor.com
+   Registrar URL: http://www.markmonitor.com
+   Updated Date: 2023-02-03T18:07:10Z
+   Creation Date: 1995-01-18T05:00:00Z
+   Registry Expiry Date: 2024-01-19T05:00:00Z
+   Registrar: MarkMonitor Inc.
+   Registrar IANA ID: 292
+   Registrar Abuse Contact Email: abusecomplaints@markmonitor.com
+   Registrar Abuse Contact Phone: +1.2086851750
+   Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+   Domain Status: serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited
+   Domain Status: serverTransferProhibited https://icann.org/epp#serverTransferProhibited
+   Domain Status: serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited
+   Name Server: NS1.YAHOO.COM
+   Name Server: NS2.YAHOO.COM
+   Name Server: NS3.YAHOO.COM
+   Name Server: NS4.YAHOO.COM
+   Name Server: NS5.YAHOO.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2023-10-27T15:13:34Z <<<
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+NOTICE: The expiration date displayed in this record is the date the
+registrar's sponsorship of the domain name registration in the registry is
+currently set to expire. This date does not necessarily reflect the expiration
+date of the domain name registrant's agreement with the sponsoring
+registrar.  Users may consult the sponsoring registrar's Whois database to
+view the registrar's reported date of expiration for this registration.
+
+TERMS OF USE: You are not authorized to access or query our Whois
+database through the use of electronic processes that are high-volume and
+automated except as reasonably necessary to register domain names or
+modify existing registrations; the Data in VeriSign Global Registry
+Services' ("VeriSign") Whois database is provided by VeriSign for
+information purposes only, and to assist persons in obtaining information
+about or related to a domain name registration record. VeriSign does not
+guarantee its accuracy. By submitting a Whois query, you agree to abide
+by the following terms of use: You agree that you may use this Data only
+for lawful purposes and that under no circumstances will you use this Data
+to: (1) allow, enable, or otherwise support the transmission of mass
+unsolicited, commercial advertising or solicitations via e-mail, telephone,
+or facsimile; or (2) enable high volume, automated, electronic processes
+that apply to VeriSign (or its computer systems). The compilation,
+repackaging, dissemination or other use of this Data is expressly
+prohibited without the prior written consent of VeriSign. You agree not to
+use electronic processes that are automated and high-volume to access or
+query the Whois database except as reasonably necessary to register
+domain names or modify existing registrations. VeriSign reserves the right
+to restrict your access to the Whois database in its sole discretion to ensure
+operational stability.  VeriSign may restrict or terminate your access to the
+Whois database for failure to abide by these terms of use. VeriSign
+reserves the right to modify these terms at any time.
+
+The Registry database contains ONLY .COM, .NET, .EDU domains and
+Registrars.
+
+Gathered Netcraft information for yahoo.com
+---------------------------------
+
+Retrieving Netcraft.com information for yahoo.com
+Netcraft.com Information gathered
+
+Gathered Subdomain information for yahoo.com
+---------------------------------
+Searching Google.com:80...
+HostName:www.yahoo.com
+HostIP:202.165.107.50
+HostName:search.yahoo.com
+HostIP:106.10.218.137
+HostName:sg.yahoo.com
+HostIP:27.123.42.204
+HostName:ca.yahoo.com
+HostIP:202.165.107.49
+HostName:mail.yahoo.com
+HostIP:27.123.42.204
+HostName:in.yahoo.com
+HostIP:202.165.107.49
+HostName:in.mail.yahoo.com
+HostIP:180.222.114.12
+HostName:login.yahoo.com
+HostIP:106.10.248.157
+HostName:in.search.yahoo.com
+HostIP:106.10.218.137
+HostName:nz.mail.yahoo.com
+HostIP:180.222.114.12
+HostName:us.yahoo.com
+HostIP:202.165.107.50
+HostName:ca.mail.yahoo.com
+HostIP:180.222.114.12
+HostName:finance.yahoo.com
+HostIP:27.123.42.205
+HostName:help.yahoo.com
+HostIP:27.123.42.205
+HostName:in.help.yahoo.com
+HostIP:27.123.42.205
+HostName:my.yahoo.com
+HostIP:202.165.107.49
+HostName:sports.yahoo.com
+HostIP:27.123.42.204
+HostName:overview.mail.yahoo.com
+HostIP:180.222.114.12
+HostName:news.yahoo.com
+HostIP:202.165.107.57
+HostName:sg.mail.yahoo.com
+HostIP:180.222.114.11
+HostName:uk.yahoo.com
+HostIP:27.123.42.204
+HostName:compose.mail.yahoo.com
+HostIP:180.222.114.12
+HostName:smtp.mail.yahoo.com
+HostIP:106.10.139.35
+HostName:au.mail.yahoo.com
+HostIP:180.222.114.11
+HostName:malaysia.yahoo.com
+HostIP:27.123.42.205
+HostName:th.help.yahoo.com
+HostIP:27.123.42.205
+Searching Altavista.com:80...
+HostName:policies.yahoo.com
+HostIP:202.165.107.57
+HostName:uk.search.yahoo.com
+HostIP:106.10.218.137
+HostName:csp.search.yahoo.com
+HostIP:74.6.136.245
+HostName:privacy.yahoo.com
+HostIP:18.136.37.69
+HostName:info.yahoo.com
+HostIP:27.123.42.205
+Found 31 possible subdomain(s) for host yahoo.com, Searched 0 pages containing 0 results
+
+Gathered E-Mail information for yahoo.com
+---------------------------------
+Searching Google.com:80...
+recipient@yahoo.com
+t@yahoo.com
+yourname@yahoo.com
+abc@yahoo.com
+comments@yahoo.com
+alexchn19@yahoo.com
+ourdiacougnon@yahoo.com
+marceloaustria@yahoo.com
+livelinkuser2004@yahoo.com
+romaezi@yahoo.com
+alsbou@yahoo.com
+jahmi@yahoo.com
+sbwoodside@yahoo.com
+kaniks4u@yahoo.com
+chanymo@yahoo.com
+gcoladonato@yahoo.com
+corytenbrink@yahoo.com
+citizen@yahoo.com
+okhayat@yahoo.com
+1986@yahoo.com
+creeper009@yahoo.com
+safetkurtovic71@yahoo.com
+angusbordenpharmacy@yahoo.com
+stereofreedom.band@yahoo.com
+squishdot@yahoo.com
+rama14@yahoo.com
+me@yahoo.com
+abcbuildcon@yahoo.com
+info@yahoo.com
+aperson@yahoo.com
+appsteam70@yahoo.com
+reliancelaboratory@yahoo.com
+ar@yahoo.com
+pfeglo@yahoo.com
+shoonikhan@yahoo.com
+failedjohnsopaul-mail@yahoo.com
+sjhrost@yahoo.com
+nikmuhdhafiz@yahoo.com
+bigfatgreedykat@yahoo.com
+mattalbright@yahoo.com
+dshinkson@yahoo.com
+7Chamed319@yahoo.com
+hamed319@yahoo.com
+bernardandkarenwilson@yahoo.com
+fahadzaf@yahoo.com
+zaf@yahoo.com
+sasanimii@yahoo.com
+carol@yahoo.com
+simon12see@yahoo.com
+trailtoes@yahoo.com
+ranger@yahoo.com
+demo@yahoo.com
+spann1521@yahoo.com
+dallas.catering@yahoo.com
+jonesgd68@yahoo.com
+gbengaadara@yahoo.com
+mxtraining@yahoo.com
+abc-100@yahoo.com
+abc.100@yahoo.com
+cur3e@yahoo.com
+x22@yahoo.com
+x3emyusername@yahoo.com
+Searching Altavista.com:80...
+Found 62 E-Mail(s) for host yahoo.com, Searched 0 pages containing 0 results
+
+All scans completed, exiting
+altaf@LAPTOP-DGNIK4U9:~$ cat dmitry-info.txt
+HostIP:74.6.231.21
+HostName:yahoo.com
+
+Gathered Inic-whois information for yahoo.com
+---------------------------------
+   Domain Name: YAHOO.COM
+   Registry Domain ID: 3643624_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.markmonitor.com
+   Registrar URL: http://www.markmonitor.com
+   Updated Date: 2023-02-03T18:07:10Z
+   Creation Date: 1995-01-18T05:00:00Z
+   Registry Expiry Date: 2024-01-19T05:00:00Z
+   Registrar: MarkMonitor Inc.
+   Registrar IANA ID: 292
+   Registrar Abuse Contact Email: abusecomplaints@markmonitor.com
+   Registrar Abuse Contact Phone: +1.2086851750
+   Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+   Domain Status: serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited
+   Domain Status: serverTransferProhibited https://icann.org/epp#serverTransferProhibited
+   Domain Status: serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited
+   Name Server: NS1.YAHOO.COM
+   Name Server: NS2.YAHOO.COM
+   Name Server: NS3.YAHOO.COM
+   Name Server: NS4.YAHOO.COM
+   Name Server: NS5.YAHOO.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2023-10-27T15:13:34Z <<<
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+NOTICE: The expiration date displayed in this record is the date the
+registrar's sponsorship of the domain name registration in the registry is
+currently set to expire. This date does not necessarily reflect the expiration
+date of the domain name registrant's agreement with the sponsoring
+registrar.  Users may consult the sponsoring registrar's Whois database to
+view the registrar's reported date of expiration for this registration.
+
+TERMS OF USE: You are not authorized to access or query our Whois
+database through the use of electronic processes that are high-volume and
+automated except as reasonably necessary to register domain names or
+modify existing registrations; the Data in VeriSign Global Registry
+Services' ("VeriSign") Whois database is provided by VeriSign for
+information purposes only, and to assist persons in obtaining information
+about or related to a domain name registration record. VeriSign does not
+guarantee its accuracy. By submitting a Whois query, you agree to abide
+by the following terms of use: You agree that you may use this Data only
+for lawful purposes and that under no circumstances will you use this Data
+to: (1) allow, enable, or otherwise support the transmission of mass
+unsolicited, commercial advertising or solicitations via e-mail, telephone,
+or facsimile; or (2) enable high volume, automated, electronic processes
+that apply to VeriSign (or its computer systems). The compilation,
+repackaging, dissemination or other use of this Data is expressly
+prohibited without the prior written consent of VeriSign. You agree not to
+use electronic processes that are automated and high-volume to access or
+query the Whois database except as reasonably necessary to register
+domain names or modify existing registrations. VeriSign reserves the right
+to restrict your access to the Whois database in its sole discretion to ensure
+operational stability.  VeriSign may restrict or terminate your access to the
+Whois database for failure to abide by these terms of use. VeriSign
+reserves the right to modify these terms at any time.
+
+The Registry database contains ONLY .COM, .NET, .EDU domains and
+Registrars.
+
+Gathered Netcraft information for yahoo.com
+---------------------------------
+
+Retrieving Netcraft.com information for yahoo.com
+Netcraft.com Information gathered
+
+Gathered Subdomain information for yahoo.com
+---------------------------------
+Searching Google.com:80...
+HostName:www.yahoo.com
+HostIP:202.165.107.50
+HostName:search.yahoo.com
+HostIP:106.10.218.137
+HostName:sg.yahoo.com
+HostIP:27.123.42.204
+HostName:ca.yahoo.com
+HostIP:202.165.107.49
+HostName:mail.yahoo.com
+HostIP:27.123.42.204
+HostName:in.yahoo.com
+HostIP:202.165.107.49
+HostName:in.mail.yahoo.com
+HostIP:180.222.114.12
+HostName:login.yahoo.com
+HostIP:106.10.248.157
+HostName:in.search.yahoo.com
+HostIP:106.10.218.137
+HostName:nz.mail.yahoo.com
+HostIP:180.222.114.12
+HostName:us.yahoo.com
+HostIP:202.165.107.50
+HostName:ca.mail.yahoo.com
+HostIP:180.222.114.12
+HostName:finance.yahoo.com
+HostIP:27.123.42.205
+HostName:help.yahoo.com
+HostIP:27.123.42.205
+HostName:in.help.yahoo.com
+HostIP:27.123.42.205
+HostName:my.yahoo.com
+HostIP:202.165.107.49
+HostName:sports.yahoo.com
+HostIP:27.123.42.204
+HostName:overview.mail.yahoo.com
+HostIP:180.222.114.12
+HostName:news.yahoo.com
+HostIP:202.165.107.57
+HostName:sg.mail.yahoo.com
+HostIP:180.222.114.11
+HostName:uk.yahoo.com
+HostIP:27.123.42.204
+HostName:compose.mail.yahoo.com
+HostIP:180.222.114.12
+HostName:smtp.mail.yahoo.com
+HostIP:106.10.139.35
+HostName:au.mail.yahoo.com
+HostIP:180.222.114.11
+HostName:malaysia.yahoo.com
+HostIP:27.123.42.205
+HostName:th.help.yahoo.com
+HostIP:27.123.42.205
+Searching Altavista.com:80...
+HostName:policies.yahoo.com
+HostIP:202.165.107.57
+HostName:uk.search.yahoo.com
+HostIP:106.10.218.137
+HostName:csp.search.yahoo.com
+HostIP:74.6.136.245
+HostName:privacy.yahoo.com
+HostIP:18.136.37.69
+HostName:info.yahoo.com
+HostIP:27.123.42.205
+Found 31 possible subdomain(s) for host yahoo.com, Searched 0 pages containing 0 results
+
+Gathered E-Mail information for yahoo.com
+---------------------------------
+Searching Google.com:80...
+recipient@yahoo.com
+t@yahoo.com
+yourname@yahoo.com
+abc@yahoo.com
+comments@yahoo.com
+alexchn19@yahoo.com
+ourdiacougnon@yahoo.com
+marceloaustria@yahoo.com
+livelinkuser2004@yahoo.com
+romaezi@yahoo.com
+alsbou@yahoo.com
+jahmi@yahoo.com
+sbwoodside@yahoo.com
+kaniks4u@yahoo.com
+chanymo@yahoo.com
+gcoladonato@yahoo.com
+corytenbrink@yahoo.com
+citizen@yahoo.com
+okhayat@yahoo.com
+1986@yahoo.com
+creeper009@yahoo.com
+safetkurtovic71@yahoo.com
+angusbordenpharmacy@yahoo.com
+stereofreedom.band@yahoo.com
+squishdot@yahoo.com
+rama14@yahoo.com
+me@yahoo.com
+abcbuildcon@yahoo.com
+info@yahoo.com
+aperson@yahoo.com
+appsteam70@yahoo.com
+reliancelaboratory@yahoo.com
+ar@yahoo.com
+pfeglo@yahoo.com
+shoonikhan@yahoo.com
+failedjohnsopaul-mail@yahoo.com
+sjhrost@yahoo.com
+nikmuhdhafiz@yahoo.com
+bigfatgreedykat@yahoo.com
+mattalbright@yahoo.com
+dshinkson@yahoo.com
+7Chamed319@yahoo.com
+hamed319@yahoo.com
+bernardandkarenwilson@yahoo.com
+fahadzaf@yahoo.com
+zaf@yahoo.com
+sasanimii@yahoo.com
+carol@yahoo.com
+simon12see@yahoo.com
+trailtoes@yahoo.com
+ranger@yahoo.com
+demo@yahoo.com
+spann1521@yahoo.com
+dallas.catering@yahoo.com
+jonesgd68@yahoo.com
+gbengaadara@yahoo.com
+mxtraining@yahoo.com
+abc-100@yahoo.com
+abc.100@yahoo.com
+cur3e@yahoo.com
+x22@yahoo.com
+x3emyusername@yahoo.com
+Searching Altavista.com:80...
+Found 62 E-Mail(s) for host yahoo.com, Searched 0 pages containing 0 results
+altaf@LAPTOP-DGNIK4U9:~$ dmitry -pb -o dmitry-portscaninfo.txt yahoo.comz^C
+altaf@LAPTOP-DGNIK4U9:~$ ^C
+altaf@LAPTOP-DGNIK4U9:~$ ^C
+altaf@LAPTOP-DGNIK4U9:~$ dmitry -pb -o dmitry-portscaninfo.txt yahoo.com
+Deepmagic Information Gathering Tool
+"There be some deep magic going on"
+
+Writing output to 'dmitry-portscaninfo.txt'
+
+HostIP:74.6.231.21
+HostName:yahoo.com
+
+Gathered TCP Port information for 74.6.231.21
+---------------------------------
+
+ Port           State
+
+^C
+altaf@LAPTOP-DGNIK4U9:~$ theHarvester –help
+theHarvester: command not found
+altaf@LAPTOP-DGNIK4U9:~$ sudo apt-get install theHarvester
+[sudo] password for altaf:
+Reading package lists... Done
+Building dependency tree... Done
+Reading state information... Done
+E: Unable to locate package theHarvester
+altaf@LAPTOP-DGNIK4U9:~$ sudo apt install theharvester
+Reading package lists... Done
+Building dependency tree... Done
+Reading state information... Done
+E: Unable to locate package theharvester
+altaf@LAPTOP-DGNIK4U9:~$ nmap -sS www.tsec.edu
+You requested a scan type which requires root privileges.
+QUITTING!
+altaf@LAPTOP-DGNIK4U9:~$ sudo nmap -sS www.tsec.edu
+[sudo] password for altaf:
+Starting Nmap 7.80 ( https://nmap.org ) at 2023-10-27 21:31 IST
+Nmap scan report for www.tsec.edu (162.241.70.62)
+Host is up (0.28s latency).
+Other addresses for www.tsec.edu (not scanned): 192.42.93.30 192.43.172.30 192.48.79.30 192.5.6.30 192.33.14.30 192.55.83.30 192.41.162.30 192.12.94.30 192.31.80.30 192.35.51.30 192.54.112.30 192.26.92.30 192.52.178.30
+rDNS record for 162.241.70.62: 162-241-70-62.webhostbox.net
+Not shown: 929 filtered ports, 59 closed ports
+PORT     STATE SERVICE
+22/tcp   open  ssh
+25/tcp   open  smtp
+53/tcp   open  domain
+80/tcp   open  http
+110/tcp  open  pop3
+143/tcp  open  imap
+443/tcp  open  https
+465/tcp  open  smtps
+587/tcp  open  submission
+993/tcp  open  imaps
+995/tcp  open  pop3s
+3306/tcp open  mysql
+
+Nmap done: 1 IP address (1 host up) scanned in 13.69 seconds
+altaf@LAPTOP-DGNIK4U9:~$ sudo nmap -sT www.tsec.edu
+Starting Nmap 7.80 ( https://nmap.org ) at 2023-10-27 21:37 IST
+
+altaf@LAPTOP-DGNIK4U9:~$ sudo nmap -sT www.yahoo.com
+Starting Nmap 7.80 ( https://nmap.org ) at 2023-10-27 21:39 IST
+Nmap scan report for www.yahoo.com (202.165.107.50)
+Host is up (0.093s latency).
+Other addresses for www.yahoo.com (not scanned): 202.165.107.49 203.84.220.53 27.123.61.53 27.123.61.53 203.84.220.53 203.84.220.53 27.123.61.53 27.123.61.53 203.84.220.53 2406:2000:e4:1605::9000 2406:2000:e4:1605::9001
+Not shown: 998 filtered ports
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap done: 1 IP address (1 host up) scanned in 22.10 seconds
+altaf@LAPTOP-DGNIK4U9:~$ sudo nmap -sU www.yahoo.com
+Starting Nmap 7.80 ( https://nmap.org ) at 2023-10-27 21:40 IST
+Nmap scan report for www.yahoo.com (202.165.107.50)
+Host is up (0.059s latency).
+Other addresses for www.yahoo.com (not scanned): 202.165.107.49 203.84.220.53 27.123.61.53 27.123.61.53 203.84.220.53 203.84.220.53 27.123.61.53 27.123.61.53 203.84.220.53 2406:2000:e4:1605::9000 2406:2000:e4:1605::9001
+Not shown: 999 open|filtered ports
+PORT      STATE  SERVICE
+33459/udp closed unknown
+
+Nmap done: 1 IP address (1 host up) scanned in 67.15 seconds
+altaf@LAPTOP-DGNIK4U9:~$ sudo nmap -sV www.google.com
+Starting Nmap 7.80 ( https://nmap.org ) at 2023-10-27 21:43 IST
+Nmap scan report for www.google.com (216.58.203.4)
+Host is up (0.014s latency).
+Other addresses for www.google.com (not scanned): 216.239.38.10 216.239.36.10 216.239.34.10 216.239.32.10 216.239.38.10 216.239.36.10 216.239.34.10 216.239.32.10 2001:4860:4802:38::a 2001:4860:4802:36::a 2001:4860:4802:34::a 2001:4860:4802:32::a 2404:6800:4009:804::2004 2001:4860:4802:38::a 2001:4860:4802:36::a 2001:4860:4802:34::a 2001:4860:4802:32::a
+Not shown: 998 filtered ports
+PORT    STATE SERVICE   VERSION
+80/tcp  open  http      gws
+443/tcp open  ssl/https gws
+2 services unrecognized despite returning data. If you know the service/version, please submit the following fingerprints at https://nmap.org/cgi-bin/submit.cgi?new-service :
+==============NEXT SERVICE FINGERPRINT (SUBMIT INDIVIDUALLY)==============
+SF-Port80-TCP:V=7.80%I=7%D=10/27%Time=653BE1C3%P=x86_64-pc-linux-gnu%r(Get
+SF:Request,48CA,"HTTP/1\.0\x20200\x20OK\r\nDate:\x20Fri,\x2027\x20Oct\x202
+SF:023\x2016:13:55\x20GMT\r\nExpires:\x20-1\r\nCache-Control:\x20private,\
+SF:x20max-age=0\r\nContent-Type:\x20text/html;\x20charset=ISO-8859-1\r\nCo
+SF:ntent-Security-Policy-Report-Only:\x20object-src\x20'none';base-uri\x20
+SF:'self';script-src\x20'nonce-VmDXhK81wWUQv2vEHn2cEA'\x20'strict-dynamic'
+SF:\x20'report-sample'\x20'unsafe-eval'\x20'unsafe-inline'\x20https:\x20ht
+SF:tp:;report-uri\x20https://csp\.withgoogle\.com/csp/gws/other-hp\r\nP3P:
+SF:\x20CP=\"This\x20is\x20not\x20a\x20P3P\x20policy!\x20See\x20g\.co/p3phe
+SF:lp\x20for\x20more\x20info\.\"\r\nServer:\x20gws\r\nX-XSS-Protection:\x2
+SF:00\r\nX-Frame-Options:\x20SAMEORIGIN\r\nSet-Cookie:\x201P_JAR=2023-10-2
+SF:7-16;\x20expires=Sun,\x2026-Nov-2023\x2016:13:55\x20GMT;\x20path=/;\x20
+SF:domain=\.google\.com;\x20Secure\r\nSet-Cookie:\x20AEC=Ackid1QRms_wufa1M
+SF:CDsxDeHHP5I6Y3kQQ9NAew30bqZRhl8HhQKEHwaYcg;\x20expires=Wed,\x2024-Apr-2
+SF:024\x2016:13:55\x20GMT;\x20path=/;\x20domain=\.google\.com;\x20Secure;\
+SF:x20HttpOnly;\x20SameSite=lax\r\nSet-Cookie:\x20NID=511=piTDBH9wldusC_4D
+SF:_RXmmezri3ly_HqjCTT9Oke5Bjn9eFfDfDt9E29SImYaXYmVZvonIuT")%r(HTTPOptions
+SF:,70F,"HTTP/1\.0\x20405\x20Method\x20Not\x20Allowed\r\nAllow:\x20GET,\x2
+SF:0HEAD\r\nDate:\x20Fri,\x2027\x20Oct\x202023\x2016:13:55\x20GMT\r\nConte
+SF:nt-Type:\x20text/html;\x20charset=UTF-8\r\nServer:\x20gws\r\nContent-Le
+SF:ngth:\x201592\r\nX-XSS-Protection:\x200\r\nX-Frame-Options:\x20SAMEORIG
+SF:IN\r\n\r\n<!DOCTYPE\x20html>\n<html\x20lang=en>\n\x20\x20<meta\x20chars
+SF:et=utf-8>\n\x20\x20<meta\x20name=viewport\x20content=\"initial-scale=1,
+SF:\x20minimum-scale=1,\x20width=device-width\">\n\x20\x20<title>Error\x20
+SF:405\x20\(Method\x20Not\x20Allowed\)!!1</title>\n\x20\x20<style>\n\x20\x
+SF:20\x20\x20\*{margin:0;padding:0}html,code{font:15px/22px\x20arial,sans-
+SF:serif}html{background:#fff;color:#222;padding:15px}body{margin:7%\x20au
+SF:to\x200;max-width:390px;min-height:180px;padding:30px\x200\x2015px}\*\x
+SF:20>\x20body{background:url\(//www\.google\.com/images/errors/robot\.png
+SF:\)\x20100%\x205px\x20no-repeat;padding-right:205px}p{margin:11px\x200\x
+SF:2022px;overflow:hidden}ins{color:#777;text-decoration:none}a\x20img{bor
+SF:der:0}@media\x20screen\x20and\x20\(max-width:772px\){body{background:no
+SF:ne;margin-top:0;max-width:none;padding-right:0}}#l");
+==============NEXT SERVICE FINGERPRINT (SUBMIT INDIVIDUALLY)==============
+SF-Port443-TCP:V=7.80%T=SSL%I=7%D=10/27%Time=653BE1C9%P=x86_64-pc-linux-gn
+SF:u%r(GetRequest,4658,"HTTP/1\.0\x20200\x20OK\r\nDate:\x20Fri,\x2027\x20O
+SF:ct\x202023\x2016:14:01\x20GMT\r\nExpires:\x20-1\r\nCache-Control:\x20pr
+SF:ivate,\x20max-age=0\r\nContent-Type:\x20text/html;\x20charset=ISO-8859-
+SF:1\r\nContent-Security-Policy-Report-Only:\x20object-src\x20'none';base-
+SF:uri\x20'self';script-src\x20'nonce-JyaA9G7gmR62WCQnt80seg'\x20'strict-d
+SF:ynamic'\x20'report-sample'\x20'unsafe-eval'\x20'unsafe-inline'\x20https
+SF::\x20http:;report-uri\x20https://csp\.withgoogle\.com/csp/gws/other-hp\
+SF:r\nP3P:\x20CP=\"This\x20is\x20not\x20a\x20P3P\x20policy!\x20See\x20g\.c
+SF:o/p3phelp\x20for\x20more\x20info\.\"\r\nServer:\x20gws\r\nX-XSS-Protect
+SF:ion:\x200\r\nX-Frame-Options:\x20SAMEORIGIN\r\nSet-Cookie:\x201P_JAR=20
+SF:23-10-27-16;\x20expires=Sun,\x2026-Nov-2023\x2016:14:01\x20GMT;\x20path
+SF:=/;\x20domain=\.google\.com;\x20Secure\r\nSet-Cookie:\x20AEC=Ackid1QnLS
+SF:CPvxxq1STYy7iT2A72r7YF5X7fPxUrnH-w7Osdgz-E1OIz-8Y;\x20expires=Wed,\x202
+SF:4-Apr-2024\x2016:14:01\x20GMT;\x20path=/;\x20domain=\.google\.com;\x20S
+SF:ecure;\x20HttpOnly;\x20SameSite=lax\r\nSet-Cookie:\x20NID=511=V_wqYx_Zh
+SF:shR54X5Kqu_HoSnRyZx0Y5sO2a_HwL4BOAAV4p33RFCX6aiHABmYP7myT9uw2P")%r(DNSS
+SF:tatusRequestTCP,B3,"HTTP/1\.0\x20400\x20Bad\x20Request\r\nContent-Lengt
+SF:h:\x2054\r\nContent-Type:\x20text/html;\x20charset=UTF-8\r\nDate:\x20Fr
+SF:i,\x2027\x20Oct\x202023\x2016:14:13\x20GMT\r\n\r\n<html><title>Error\x2
+SF:0400\x20\(Bad\x20Request\)!!1</title></html>");
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 89.24 seconds
+altaf@LAPTOP-DGNIK4U9:~$ sudo nmap -sV 172.31.217.251
+Starting Nmap 7.80 ( https://nmap.org ) at 2023-10-27 21:46 IST
+Nmap scan report for 172.31.217.251
+Host is up (0.0000070s latency).
+All 1000 scanned ports on 172.31.217.251 are closed
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 6.01 seconds
+altaf@LAPTOP-DGNIK4U9:~$ sudo nmap -sV 172.31.217.251
+Starting Nmap 7.80 ( https://nmap.org ) at 2023-10-27 21:47 IST
+Nmap scan report for 172.31.217.251
+Host is up (0.0000040s latency).
+All 1000 scanned ports on 172.31.217.251 are closed
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 1.61 seconds
+altaf@LAPTOP-DGNIK4U9:~$ sudo nmap -sT 172.31.217.251
+Starting Nmap 7.80 ( https://nmap.org ) at 2023-10-27 21:47 IST
+Nmap scan report for 172.31.217.251
+Host is up (0.00011s latency).
+All 1000 scanned ports on 172.31.217.251 are closed
+
+Nmap done: 1 IP address (1 host up) scanned in 1.13 seconds
+altaf@LAPTOP-DGNIK4U9:~$ sudo nmap -sT 172.31.217.251
+Starting Nmap 7.80 ( https://nmap.org ) at 2023-10-27 21:49 IST
+Nmap scan report for 172.31.217.251
+Host is up (0.00046s latency).
+All 1000 scanned ports on 172.31.217.251 are closed
+
+Nmap done: 1 IP address (1 host up) scanned in 1.14 seconds
+altaf@LAPTOP-DGNIK4U9:~$ sudo nmap -sS 172.31.217.251
+Starting Nmap 7.80 ( https://nmap.org ) at 2023-10-27 21:49 IST
+Nmap scan report for 172.31.217.251
+Host is up (0.0000030s latency).
+All 1000 scanned ports on 172.31.217.251 are closed
+
+Nmap done: 1 IP address (1 host up) scanned in 1.20 seconds
+altaf@LAPTOP-DGNIK4U9:~$ sudo nmap -sU 172.31.217.251
+Starting Nmap 7.80 ( https://nmap.org ) at 2023-10-27 21:49 IST
+Nmap scan report for 172.31.217.251
+Host is up (0.0000020s latency).
+All 1000 scanned ports on 172.31.217.251 are closed
+
+Nmap done: 1 IP address (1 host up) scanned in 1.24 seconds
+altaf@LAPTOP-DGNIK4U9:~$ ifconfig
+eth0: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        inet 172.31.217.251  netmask 255.255.240.0  broadcast 172.31.223.255
+        inet6 fe80::215:5dff:fe86:b318  prefixlen 64  scopeid 0x20<link>
+        ether 00:15:5d:86:b3:18  txqueuelen 1000  (Ethernet)
+        RX packets 32232  bytes 18142991 (18.1 MB)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 35599  bytes 4443715 (4.4 MB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+lo: flags=73<UP,LOOPBACK,RUNNING>  mtu 65536
+        inet 127.0.0.1  netmask 255.0.0.0
+        inet6 ::1  prefixlen 128  scopeid 0x10<host>
+        loop  txqueuelen 1000  (Local Loopback)
+        RX packets 12000  bytes 537854 (537.8 KB)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 12000  bytes 537854 (537.8 KB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+altaf@LAPTOP-DGNIK4U9:~$ sudo nmap -sU 172.31.223.255
+Starting Nmap 7.80 ( https://nmap.org ) at 2023-10-27 21:50 IST
+Note: Host seems down. If it is really up, but blocking our ping probes, try -Pn
+Nmap done: 1 IP address (0 hosts up) scanned in 0.58 seconds
+altaf@LAPTOP-DGNIK4U9:~$ sudo nmap -sT 172.31.223.255
+Starting Nmap 7.80 ( https://nmap.org ) at 2023-10-27 21:50 IST
+Note: Host seems down. If it is really up, but blocking our ping probes, try -Pn
+Nmap done: 1 IP address (0 hosts up) scanned in 0.58 seconds
+altaf@LAPTOP-DGNIK4U9:~$ sudo nmap -sV 172.31.223.255
+Starting Nmap 7.80 ( https://nmap.org ) at 2023-10-27 21:50 IST
+Note: Host seems down. If it is really up, but blocking our ping probes, try -Pn
+Nmap done: 1 IP address (0 hosts up) scanned in 1.00 seconds
+altaf@LAPTOP-DGNIK4U9:~$ sudo nmap -sV 192.168.0.1
+Starting Nmap 7.80 ( https://nmap.org ) at 2023-10-27 21:51 IST
+Nmap scan report for 192.168.0.1
+Host is up (0.095s latency).
+Not shown: 996 closed ports
+PORT     STATE SERVICE VERSION
+22/tcp   open  ssh     Dropbear sshd 2012.55 (protocol 2.0)
+53/tcp   open  domain  ISC BIND 9.11.4-P2 (RedHat Enterprise Linux 7)
+80/tcp   open  http
+1900/tcp open  upnp    Portable SDK for UPnP devices 1.6.19 (Linux 2.6.36; UPnP 1.0)
+1 service unrecognized despite returning data. If you know the service/version, please submit the following fingerprint at https://nmap.org/cgi-bin/submit.cgi?new-service :
+SF-Port80-TCP:V=7.80%I=7%D=10/27%Time=653BE37E%P=x86_64-pc-linux-gnu%r(Get
+SF:Request,285B,"HTTP/1\.1\x20200\x20OK\r\nContent-Type:\x20text/html;\x20
+SF:charset=utf-8\r\nContent-Length:\x2024189\r\nSet-Cookie:\x20JSESSIONID=
+SF:deleted;\x20Expires=Thu,\x2001\x20Jan\x201970\x2000:00:01\x20GMT;\x20Pa
+SF:th=/;\x20HttpOnly\r\nConnection:\x20keep-alive\r\n\r\n\xef\xbb\xbf<!DOC
+SF:TYPE\x20html>\x20\r\n<html\x20xmlns=\"http://www\.w3\.org/1999/xhtml\">
+SF:\r\n\r\n<head>\r\n<META\x20http-equiv=Content-Type\x20content=\"text/ht
+SF:ml;\x20charset=utf-8\"\x20/>\r\n<META\x20http-equiv=Pragma\x20content=n
+SF:o-cache>\r\n<META\x20http-equiv=Expires\x20content=0>\r\n\r\n<!--\x20\r
+SF:\n<link\x20rel=\"stylesheet\"\x20href=\"\.\./css/login\.css\"\x20type=\
+SF:"text/css\"\x20/>\r\n<link\x20rel=\"stylesheet\"\x20href=\"\.\./img/log
+SF:in/login\.css\"\x20type=\"text/css\"\x20/>\r\n-->\r\n<link\x20rel=\"Sho
+SF:rtcut\x20Icon\"\x20href=\"\.\./img/login/favicon\.ico\"\x20type=\"image
+SF:/jpeg\"\x20/>\r\n<style\x20type=\"text/css\">\r\nbody{\r\n\x20\x20\x20\
+SF:x20font-family:Arial,\x20sans-serief;\r\n\x20\x20\x20\x20background-col
+SF:or:#FFFFFF;\r\n\x20\x20\x20\x20margin:0px;\r\n\x20\x20\x20\x20padding:0
+SF:px;\r\n}\r\ndiv\.loginBox\r\n{\r\n\x20\x20\x20\x20display:\x20block;\r\
+SF:n\x20\x20\x20\x20position:relative;\r\n\x20\x20\x20\x20margin-top:10%;\
+SF:r\n\x20\x20\x20\x20text-align:center;\r\n}")%r(HTTPOptions,148,"HTTP/1\
+SF:.1\x20405\x20Method\x20Not\x20Allowed\r\nContent-Type:\x20text/html;\x2
+SF:0charset=utf-8\r\nContent-Length:\x20124\r\nSet-Cookie:\x20JSESSIONID=d
+SF:eleted;\x20Expires=Thu,\x2001\x20Jan\x201970\x2000:00:01\x20GMT;\x20Pat
+SF:h=/;\x20HttpOnly\r\nConnection:\x20close\r\n\r\n<html><head><title>405\
+SF:x20Method\x20Not\x20Allowed</title></head><body><center><h1>405\x20Meth
+SF:od\x20Not\x20Allowed</h1></center></body></html>")%r(RTSPRequest,148,"H
+SF:TTP/1\.1\x20405\x20Method\x20Not\x20Allowed\r\nContent-Type:\x20text/ht
+SF:ml;\x20charset=utf-8\r\nContent-Length:\x20124\r\nSet-Cookie:\x20JSESSI
+SF:ONID=deleted;\x20Expires=Thu,\x2001\x20Jan\x201970\x2000:00:01\x20GMT;\
+SF:x20Path=/;\x20HttpOnly\r\nConnection:\x20close\r\n\r\n<html><head><titl
+SF:e>405\x20Method\x20Not\x20Allowed</title></head><body><center><h1>405\x
+SF:20Method\x20Not\x20Allowed</h1></center></body></html>");
+Service Info: OS: Linux; CPE: cpe:/o:linux:linux_kernel, cpe:/o:redhat:enterprise_linux:7, cpe:/o:linux:linux_kernel:2.6.36
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 88.01 seconds
+altaf@LAPTOP-DGNIK4U9:~$ hping3 -c 15000 -d 120 -S -w 64 -p 80 --flood --rand-source 192.168.1.159[open_sockraw] socket(): Operation not permitted
+[main] can't open raw socket
+altaf@LAPTOP-DGNIK4U9:~$ ^C
+altaf@LAPTOP-DGNIK4U9:~$ man hping3
+altaf@LAPTOP-DGNIK4U9:~$ sudo hping3 -1 --flood -a 192.168.1.103 192.168.1.255
+HPING 192.168.1.255 (eth0 192.168.1.255): icmp mode set, 28 headers + 0 data bytes
+hping in flood mode, no replies will be shown
+^C
+--- 192.168.1.255 hping statistic ---
+1566419 packets transmitted, 0 packets received, 100% packet loss
+round-trip min/avg/max = 0.0/0.0/0.0 ms
+altaf@LAPTOP-DGNIK4U9:~$ sudo hping3 -c 15000 -d 120 -S -w 64 -p 80 --flood --rand-source 192.168.
+1.159
+HPING 192.168.1.159 (eth0 192.168.1.159): S set, 40 headers + 120 data bytes
+hping in flood mode, no replies will be shown
+^C
+--- 192.168.1.159 hping statistic ---
+59312 packets transmitted, 0 packets received, 100% packet loss
+round-trip min/avg/max = 0.0/0.0/0.0 ms
+altaf@LAPTOP-DGNIK4U9:~$ ^C
+altaf@LAPTOP-DGNIK4U9:~$ sudo hping3 -c 15000 -d 120 -S -w 64 -p 80 --flood --rand-source 192.168.1.159
+HPING 192.168.1.159 (eth0 192.168.1.159): S set, 40 headers + 120 data bytes
+hping in flood mode, no replies will be shown
+^C^C
+--- 192.168.1.159 hping statistic ---
+35690 packets transmitted, 0 packets received, 100% packet loss
+round-trip min/avg/max = 0.0/0.0/0.0 ms
+altaf@LAPTOP-DGNIK4U9:~$ sudo hping3 -1 --flood -a 192.168.1.103 192.168.1.255
+HPING 192.168.1.255 (eth0 192.168.1.255): icmp mode set, 28 headers + 0 data bytes
+hping in flood mode, no replies will be shown
+^C
+--- 192.168.1.255 hping statistic ---
+1046796 packets transmitted, 0 packets received, 100% packet loss
+round-trip min/avg/max = 0.0/0.0/0.0 ms
+altaf@LAPTOP-DGNIK4U9:~$ ^C
+altaf@LAPTOP-DGNIK4U9:~$ ^C
+altaf@LAPTOP-DGNIK4U9:~$ sudo hping3 -1 --flood -a 192.168.1.103 192.168.1.255
+HPING 192.168.1.255 (eth0 192.168.1.255): icmp mode set, 28 headers + 0 data bytes
+hping in flood mode, no replies will be shown
+^C
+--- 192.168.1.255 hping statistic ---
+639317 packets transmitted, 0 packets received, 100% packet loss
+round-trip min/avg/max = 0.0/0.0/0.0 ms
+altaf@LAPTOP-DGNIK4U9:~$

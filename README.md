@@ -4,6 +4,9 @@ Karenge th hoyenga naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
 devops 
 https://drive.google.com/drive/folders/1XnuXu2hqg823dEiHXQ0mxqcCikv_ZK1s?usp=drive_link
 
+https://www.javatpoint.com/jenkins-setup-build-jobs
+
+https://www.jenkins.io/doc/pipeline/tour/hello-world/#:~:text=Jenkins%20Pipeline%20
 
 adv devops
 https://drive.google.com/drive/folders/1Ma77ewTcCsL3Kzgr3dZh9dGuh1LAiJrN
